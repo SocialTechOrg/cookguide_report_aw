@@ -274,3 +274,24 @@ Sabremos que esto es verdad…
 
 Cuando notemos un aumento en la cantidad de usuarios que comparten sus propias versiones de recetas y cuando se generen discusiones en torno a estas adaptaciones.
 
+**1.2.2.4. Lean UX Canvas.**
+
+
+<table><tr><th colspan="3" valign="top"><b>LEAN UX CANVAS</b></th></tr>
+<tr><td valign="top"><b>Business Outcomes</b></td><td valign="top"><b>Solution Ideas</b></td><td valign="top"><b>Results</b></td></tr>
+<tr><td valign="top">Abarcar el segmento conformado por jóvenes universitarios que no cuenten con ninguna experiencia para cocinar, con esa necesidad clave, podremos obtener recaudar ganancias ofreciéndoles una solución ideal y sencilla.</td><td rowspan="3" valign="top"><p>- Generar un plan alimenticio de acuerdo a sus necesidades.</p><p><br></p><p>- Revisar las opiniones y comentarios para cada receta.</p><p><br></p><p>- Revisar el valor nutricional aproximado para cada receta.</p><p><br></p><p>- Absolver sus dudas a través de comentarios con los cocineros que publicaron las recetas, así como con la comunidad de la app.</p></td><td valign="top"><p><b>Como resultados esperados, tenemos las siguientes:<br><br>a) Establecer un estándar con CookGuide, que las recetas en línea sean más prácticas, intuitivas y sencillas.</b></p><p></p><p><b>b) Lograr que el 30% de usuarios que recurren, por los menos 3 veces a la semana ver una receta culinaria, se mantengan o utilicen nuestra app.</b></p><p></p><p><b>c) Que los cocineros amateurs o amas de casa, al menos un 25%, utilicen con frecuencia nuestra aplicación web.</b></p><p></p></td></tr>
+<tr><td valign="top"><b>User & Clients</b></td><td valign="top"><b>User Benefits</b></td></tr>
+<tr><td valign="top"><p>Estudiantes universitarios, de un rango de edad de 18 a 25 años, Lima, Perú. Que vivan en la casa de sus padres o vivan solos, además que estén cursando una carrera en una universidad.</p><p></p><p>Personas experimentadas en la cocina, amateurs o profesionales, con una edad de 25 - 35 años. Quienes cuenten con una especialidad en un tipo de cocina y requieren alguna forma de ganar dinero para solventar gastos.</p></td><td valign="top">Una página web que te ofrezca un recetario de comidas tradicionales del Perú, donde cada receta mostrará la preparación mediante videos y, además, se podrán modificar las recetas, de acuerdo al número de comensales o ingredientes que dispongas. También, ofreceremos la posibilidad de agregar recetarios , donde recibirás una cantidad de dinero, de acuerdo a la relación de personas que han consultado tus recetas.</td></tr>
+<tr><td valign="top"><b>Hypothesis Statements</b></td><td valign="top"><b>¿What is the most important thing we need to learn first?</b></td><td valign="top"><b>What is the least amount of work we need to do to resolve the questions and do the next most important thing?</b></td></tr>
+<tr><td valign="top"><p><b>Hypothetical Statement 1: Más variedad de recetas</b></p><p></p><p><b>Hypothetical Statement 2:Mayor detalle en las recetas</b></p><p></p><p><b>Hypothetical Statement 3: Mayor experiencia al usuario en la aplicación</b></p><p></p><p><b>Hypothetical Statement 4: Feedback entre segmentos</b></p><p></p><p><b>Hypothetical Statement 5: Adaptar comidas mediante sugerencias</b></p></td><td valign="top">Tenemos que comprender las necesidades reales de cada segmento objetivo y su comportamiento, para que así las decisiones que tomemos para el ciclo de vida del software sean las correctas y fructíferas.</td><td valign="top"><b>Leer el feedback recibido por nuestros segmentos y organizarlos o refinarlos en información importante para la toma de buenas decisiones, La cosa más importante a realizar seria la previa investigación y ejecución de casos hipotéticos que nos guien a un buen resultado.</b></td></tr>
+</table>
+
+**1.3. Segmentos objetivo.**
+
+Segmento Objetivo #1:  **Estudiantes universitarios (18-25 años)** 
+
+Nuestro primer segmento consiste en estudiantes universitarios, de un rango de edad de 18 a 25 años, Lima, Perú. Que vivan en la casa de sus padres o vivan solos, además que estén cursando una carrera en una universidad. La principal necesidad que tienen es tener que cocinar, ya sea varias veces a la semana, una comida para ellos mismos o también para sus familias.
+
+Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
+
+Nuestro último segmento objetivo abarca a las personas que, ya sean madres de familias o gente experimentada en la cocina que necesite un ingreso extra para sustentar los gastos diarios, ellos viven también en Lima, Perú.
