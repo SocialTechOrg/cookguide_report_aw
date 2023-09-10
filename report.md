@@ -103,21 +103,15 @@ Esta problemática se llevó a cabo debido a que los expertos o los que tienen c
 El problema de los malos hábitos alimenticios entre los jóvenes universitarios tiene un impacto significativo en múltiples aspectos. A nivel de salud, se observa un aumento en las tasas de obesidad, diabetes tipo 2, enfermedades cardiovasculares y otras condiciones relacionadas con la dieta. “Los problemas derivados de una mala alimentación están creciendo en la población infantil, adolescente y adulta joven. Se ha estimado en un 38,6% la prevalencia del sobrepeso/obesidad en la población menor de 17 años (17), y en un 26,8% entre la población universitaria” (Enrique *et al.*, 2019, p. 1340). Estos problemas de salud no solo afectan la calidad de vida de los estudiantes durante sus años universitarios, sino que también pueden tener efectos a largo plazo en su salud en etapas posteriores de la vida. En términos de bienestar emocional y mental, una dieta deficiente puede contribuir al estrés, la fatiga y la disminución de la concentración, lo que a su vez podría afectar el rendimiento académico. Además, los malos hábitos alimenticios pueden influir en los patrones de sueño y la energía general, lo que repercute en la capacidad de los estudiantes para enfrentar las demandas de sus estudios y otras responsabilidades. Según un estudio realizado a los jóvenes universitarios con malos hábitos alimenticios se obtuvo: “El 23,5%, 18,6% y 33,9% de los participantes mostraron, en mayor o menor medida, niveles de ansiedad, depresión y estrés, respectivamente” (Enrique *et al.*, 2019, p. 1342). Es por ello que es importante cuidar de la salud universitaria.
 
 **1.2.2 Lean UX Process.**
-**
+
 
 
 **1.2.2.1. Lean UX Problem Statements.**
-**
-`	`Luego de realizar el análisis de las 5w 2h, hemos identificado el problema principal, el cual dará paso a nuestra propuesta de solución, la mala alimentación de los jóvenes universitarios. Esta problemática, es ocasionada por diferentes factores, los cuales afectan de manera directa al incremento de este, como los pueden ser la falta de tiempo para poder cocinar alimentos de calidad, el cansancio acumulado por los estudios, la falta de organización, largas distancias desde sus casas a sus centros de estudio, etc. Esto ocasiona múltiples afecciones en la salud humana, como lo pueden ser la mala nutrición, enfermedades en el cuerpo humano, entre otros. Una de las principales afecciones, la cual está relacionada directamente con su rendimiento académico, es la depresión. Según Segundo Vargas (2021), factores como la mala alimentación, las conductas desordenadas, el poco control de las comidas de los estudiantes, entre otros, tienen una relación directa con el estado depresivo (Ramón, et. al., 2019). Esto, a largo plazo, afecta de manera significativa en la vida de los alumnos, en algunos casos, llevandolos al suicidio. 
+Luego de realizar el análisis de las 5w 2h, hemos identificado el problema principal, el cual dará paso a nuestra propuesta de solución, la mala alimentación de los jóvenes universitarios. Esta problemática, es ocasionada por diferentes factores, los cuales afectan de manera directa al incremento de este, como los pueden ser la falta de tiempo para poder cocinar alimentos de calidad, el cansancio acumulado por los estudios, la falta de organización, largas distancias desde sus casas a sus centros de estudio, etc. Esto ocasiona múltiples afecciones en la salud humana, como lo pueden ser la mala nutrición, enfermedades en el cuerpo humano, entre otros. Una de las principales afecciones, la cual está relacionada directamente con su rendimiento académico, es la depresión. Según Segundo Vargas (2021), factores como la mala alimentación, las conductas desordenadas, el poco control de las comidas de los estudiantes, entre otros, tienen una relación directa con el estado depresivo (Ramón, et. al., 2019). Esto, a largo plazo, afecta de manera significativa en la vida de los alumnos, en algunos casos, llevandolos al suicidio. 
 
 ¿Cómo podemos reducir la mala alimentación de los jóvenes aplicando la tecnología que tenemos en nuestras manos?
 
-
-
-
-
 **1.2.2.2. Lean UX Assumptions.**
-
 
 **Business outcomes**
 
