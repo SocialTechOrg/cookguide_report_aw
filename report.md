@@ -1813,8 +1813,8 @@ Link: <https://my.vertabelo.com/public-model-view/YCo9lGgafyxjOAb2MSAKRUlE0mepLn
 
 
 # <a name="_toc146873756"></a>**CAPÍTULO V: PRODUCT IMPLEMENTATION**
-<a name="_toc146873757"></a><a name="_hlk146279629"></a>5.1 Software Configuration Management
-5\.1.1. Software Development Environment Configuration
+## <a name="_toc146873757"></a><a name="_hlk146279629"></a>5.1 Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
 
 **Project Management**
 
@@ -1891,13 +1891,14 @@ Link: <https://my.vertabelo.com/public-model-view/YCo9lGgafyxjOAb2MSAKRUlE0mepLn
 
 
 
-<a name="_toc146873758"></a>5.1.2. Source Code Management (CAMBIAR)
+### <a name="_toc146873758"></a>5.1.2. Source Code Management
 
-Utilizaremos GitHub para llevar el control de nuestras versiones de desarrollo, hemos creado una organización llamada WALMAT-TECH en las que tenemos todos los repositorios necesarios: https://github.com/orgs/WALMAT-TECH/repositories. Asimismo, se adjuntan los enlaces correspondientes a los repositorios de cada una de las soluciones implementadas
+Para llevar el control de versiones del proyecto utilizaremos un repositorio en GitHub. Para ello, el equipo creó una organización (SocialTechOrg) que contendrá los repositorios correspondientes. A continuación se listan los enlaces a los repositorios de las soluciones implementadas.
 
 |**Solución**|**Nombre de repositorio**|**Enlace**|
 | :- | :- | :- |
-|Frontend|FRONTEND-TUCINE|https://github.com/WALMAT-TECH/FRONTEND-TUCINE.git|
+|Landing Page|cookguide-landing-page|https://github.com/SocialTechOrg/cookguide-landing-page  |
+|Front End|cook-guide-vue|https://github.com/SocialTechOrg/cook-guide-vue |
 
 ### <a name="_toc146873759"></a>5.1.3. Source Code Style Guide & Conventions
 En lo que respecta a las convenciones o estilos de programación, seguiremos las convenciones básicas de camelCase y UpperCamelCase según corresponda. Además, nos regimos por la guía de estilo de Google para programar en HTML y CSS, conocida como el "Google HTML/CSS Style Guide".
@@ -1911,9 +1912,48 @@ Commit -> feat(ui): agregado el template del componente principal
 En lo que respecta a la creación de ramas, seguiremos el modelo de GitFlow, utilizando ramas de características ("feature branches") de acuerdo con la nomenclatura mencionada anteriormente. Nuestra rama principal será "main", que contendrá la versión de la aplicación en producción. Todas las ramas de características y correcciones se fusionarán con esta rama principal, y gracias a la integración con Cloudflare Pages, se desplegará automáticamente.
 
 
-**5.1.4. Software Deployment Configuration.**
+### 5.1.4. Software Deployment Configuration.
+
+**Landing Page**
+
+Para el despliegue del Landing Page se utilizó GitHub Pages. Para esto, primero es necesario ir a la sección Settings.
+
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157725008303489024/image.png?ex=6519a6ef&is=6518556f&hm=4ace4add8b27c133c62c54a7bff0c0d695ad85cd1c6cd74b2bb6fd9d01991854&=&width=868&height=453">
+
+Luego ubicamos la sección "Build and deployment" dentro de "Pages", en el menú lateral.
+
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157725131079155804/image.png?ex=6519a70c&is=6518558c&hm=415ea673d8aaf5e7bfb89eb52a7740f903fd55b6c52d835894882cb59af382bb&=&width=868&height=472">
+
+Aquí seleccionamos "Deploy from a branch" y la rama para hacer el despliegue, que es "main".
+
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157725221625806939/image.png?ex=6519a722&is=651855a2&hm=8a8a4e652246a3957adfa6de7ab99218f051faa200422db1c6c370f722d97dd4&=&width=868&height=297">
+
+Finalmente, luego de que el deploy finalice se generará un enlace para acceder al Landing Page.
+
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157725244484747397/image.png?ex=6519a727&is=651855a7&hm=c943b68ed2ca85bb56192dbe64ebe0c5536851ad9558db7fc96547addc60b478&=&width=868&height=211">
 
 
+**Frontend Web Application**
+
+Para el despliegue del web application utilizamos Vercel. Aquí es necesario registrarse y agregar un nuevo proyecto.
+
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157726203776606328/image.png?ex=6519a80c&is=6518568c&hm=70c59072c1a985e078913678bb2bf9c63b8b953a600f53a8592a94da7c3c740f&=&width=868&height=465">
+
+Al vincular la cuenta de Vercel con Github, será necesario elegir un repositorio para hacer el despliegue.
+
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157726212664328264/image.png?ex=6519a80e&is=6518568e&hm=4c08ad64cd5ade8b87fff2b21574a6be7afc847a24c56bdde8892a13ce253865&=&width=868&height=516">
+
+Dentro de la configuración, elegimos Vue.js como Framework y hacemos clic en Deploy.
+
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157726231576449054/image.png?ex=6519a813&is=65185693&hm=3d186eb0a86e9d639596c1e67dd67870c361727aae7ea5f994688f480bb63bb6&=&width=868&height=491">
+
+Luego de realizarse el despliegue, se generará un enlace para acceder a la aplicación.
+
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157726244750766231/image.png?ex=6519a816&is=65185696&hm=db638bd785bb4176a19e7372d2520cca0dda596bc63f4e24f286c73c8ac68742&=&width=868&height=470">
+
+## 5.2 Product Implementation & Deployment
+### 5.2.1 Sprint 1
+#### 5.2.1.1. Sprint Planning 1
 |Sprint #|1|
 | - | - |
 |Sprint Planning Background||
