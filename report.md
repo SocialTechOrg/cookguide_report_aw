@@ -2037,16 +2037,21 @@ Gherkin: <https://github.com/SocialTechOrg/cook-guide-gherkin>
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157715569978650624/107.png?ex=65199e25&is=65184ca5&hm=c9daf2c6a8b949565f6f767d6c5209a739e542edc10cda8d17e87e6945d288ff&=)
 
 Enlace del video: <https://drive.google.com/drive/u/0/folders/1giYNup4KUZ2q2PClpfaumLH0AFv97zgU>
+
 #### 5\.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Enlace del video: <https://drive.google.com/drive/u/0/folders/1qoQYVef5-qmxQMX23inG574YOxSyit59>
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157727156609224795/image.png?ex=6519a8ef&is=6518576f&hm=4906d1141485ffb43c36499b50f1487525cd6dd9d0adab5a9de58696c5327c14&=&width=868&height=437">
+
+Enlace del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a452_upc_edu_pe/EW-5YxoVAD5BmpSgcc1fG38BxrQsFRS7kdCyJxa10JPV0Q?e=Okihr8>
 
 #### 5\.2.1.7. Software Deployment Evidence for Sprint Review.
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157715624731086938/108.png?ex=65199e32&is=65184cb2&hm=1dfa01025b59c8c44acfe1a78843f8693975f7d2cf567c1e462897e5ffedcc3a&=)
 
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157715670117662740/109.png?ex=65199e3d&is=65184cbd&hm=119705930c965b3c7d23a486d7dc7e7380cfd929daf76eb900045223e32c7b7f&=)
 
-Link del Landing Page: <https://socialtechorg.github.io/cookguide-landing-page/>
+Link del Landing Page: <https://socialtechorg.github.io/cookguide-landing-page/> <br>
+Despliegue: <https://socialtechorg.github.io/cookguide-landing-page/>
+
 #### 5\.2.1.8. Team Collaboration Insights during Sprint.
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157715728280080444/110.png?ex=65199e4a&is=65184cca&hm=42cfc9c8908b769eb040e5a980dfd391125339d05b7605b97fa8e1193a7b7cb6&=)
 
@@ -2115,10 +2120,16 @@ Gherkin: <https://github.com/SocialTechOrg/cook-guide-gherkin>
 
 #### 5\.2.1.5. Execution Evidence for Sprint Review
 
-Enlace del video: <https://drive.google.com/drive/folders/1NolWUP3yIBPfy6kJwkJ8cWMEzu5ZW4nB>
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157727668263989248/image.png?ex=6519a969&is=651857e9&hm=2adfc857479f25eac39fb4d96e009fe79d38d082f72bced58a013142cdb6e631&=&width=868&height=426">
+
+Enlace del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a452_upc_edu_pe/EQIDApe4oohKjIA5GqOS8QIBsFT4_g-60yHrKdJKhJh4Jw?e=pqPFZe>
+
 #### 5\.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Enlace del video: <https://drive.google.com/drive/u/0/folders/1qoQYVef5-qmxQMX23inG574YOxSyit59>
+<img src="https://media.discordapp.net/attachments/1150112902737580138/1157727911684608101/image.png?ex=6519a9a3&is=65185823&hm=f35fdf3ba3ac63cd3c2a0f6c551263ad371efcc86d8c44656b1befb9aa31d52e&=&width=868&height=467">
+
+Enlace del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a452_upc_edu_pe/EUs51XVVW9VJuscRq7u7WbABNMvBV6VDGQvrs_TzKevr3w?e=uMsbTI>
+
 #### 5\.2.1.7. Software Deployment Evidence for Sprint Review.
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157715896966586520/113.png?ex=65199e73&is=65184cf3&hm=eb2ad4446cb5c36cecacde295ae623e7603ff38ac9a04b4729243210f25237e3&=)
 
