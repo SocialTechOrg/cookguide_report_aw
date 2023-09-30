@@ -2057,8 +2057,8 @@ Despliegue: <https://socialtechorg.github.io/cookguide-landing-page/>
 
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157715778557190186/111.png?ex=65199e56&is=65184cd6&hm=dadafb32e626795d4a71da8c6ee8c45223d1bd33b62843719f714eceab88f767&=&width=576&height=423)
 
-### <a name="_toc146873763"></a>5.2.1 Sprint 2
-#### 5\.2.1.1. Sprint Planning 2
+### <a name="_toc146873763"></a>5.2.2 Sprint 2
+#### 5.2.2.1. Sprint Planning 2
 
 |**Sprint #**|2|
 | :- | :- |
@@ -2073,7 +2073,7 @@ Despliegue: <https://socialtechorg.github.io/cookguide-landing-page/>
 |Sprint 1 Velocity|8 points|
 |Sum of Story Points|40 points|
 
-#### 5\.2.1.2. Sprint Backlog 2
+#### 5.2.2.2. Sprint Backlog 2
 
 <table><tr><th colspan="1" valign="top"><b>Sprint #</b></th><th colspan="7" valign="top"><b>Sprint 2</b></th></tr>
 <tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work-Item / Task</b></td></tr>
@@ -2094,7 +2094,7 @@ Despliegue: <https://socialtechorg.github.io/cookguide-landing-page/>
 <tr><td colspan="1" valign="top">T002</td><td colspan="1" valign="top">Realizar una limpieza de código</td><td colspan="1" valign="top">Corrección de errores y optimización de código </td><td colspan="1" valign="top">1 Hora</td><td colspan="1" valign="top">Lucía Aliaga</td><td colspan="1" valign="top">Done</td></tr>
 </table>
 
-#### 5\.2.1.3. Development Evidence for Sprint Review
+#### 5.2.2.3. Development Evidence for Sprint Review
 
 |**Repository**|**Branch**|**Commit ID**|**Commit Message**|**Commit Message Body**|**Commited on date**|
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -2106,7 +2106,7 @@ Despliegue: <https://socialtechorg.github.io/cookguide-landing-page/>
 |Cook-guide-vue|development|5f4a21aa40a784071cb9a0be1ba520e9fc41a08e|Feature: Add profile|Feature: Add profile|29/09/2023|
 |Cook-guide-vue|development|a20cb99c7727eb27bf0e987c29c89ee87b62f305|Fix edit form|Fix edit form|29/09/2023|
 
-#### 5\.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 5\.2.2.4. Testing Suite Evidence for Sprint Review.
 Se realizaron las siguientes  pruebas en Gherkin
 ####
 
@@ -2118,19 +2118,22 @@ Se realizaron las siguientes  pruebas en Gherkin
 
 Gherkin: <https://github.com/SocialTechOrg/cook-guide-gherkin>
 
-#### 5\.2.1.5. Execution Evidence for Sprint Review
+#### 5\.2.2.5. Execution Evidence for Sprint Review
 
 <img src="https://media.discordapp.net/attachments/1150112902737580138/1157727668263989248/image.png?ex=6519a969&is=651857e9&hm=2adfc857479f25eac39fb4d96e009fe79d38d082f72bced58a013142cdb6e631&=&width=868&height=426">
 
 Enlace del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a452_upc_edu_pe/EQIDApe4oohKjIA5GqOS8QIBsFT4_g-60yHrKdJKhJh4Jw?e=pqPFZe>
 
-#### 5\.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5\.2.2.6. Services Documentation Evidence for Sprint Review.
 
 <img src="https://media.discordapp.net/attachments/1150112902737580138/1157727911684608101/image.png?ex=6519a9a3&is=65185823&hm=f35fdf3ba3ac63cd3c2a0f6c551263ad371efcc86d8c44656b1befb9aa31d52e&=&width=868&height=467">
 
 Enlace del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a452_upc_edu_pe/EUs51XVVW9VJuscRq7u7WbABNMvBV6VDGQvrs_TzKevr3w?e=uMsbTI>
 
-#### 5\.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5\.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Desspliegue en Vercel: <https://cook-guide-vue.vercel.app/>
+
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157715896966586520/113.png?ex=65199e73&is=65184cf3&hm=eb2ad4446cb5c36cecacde295ae623e7603ff38ac9a04b4729243210f25237e3&=)
 
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157715945326915674/114.png?ex=65199e7e&is=65184cfe&hm=c1ab20bb24ff493140ce42b7032f02b89bf386c1cbeb84d9eb1222f614edf028&=)
@@ -2140,7 +2143,8 @@ Enlace del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a452_
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157716040634093650/116.png?ex=65199e95&is=65184d15&hm=98bf73835b83db727314315e4969588898f48964c08440ccd9f52af7fbeb97ee&=)
 
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157716086087762041/117.png?ex=65199ea0&is=65184d20&hm=f18775b9c7d0f05244daa3e0ec7f0c624c6e72ef548269fc2680c9d3ab529315&=)
-#### 5\.2.1.8. Team Collaboration Insights during Sprint.
+
+#### 5\.2.12.8. Team Collaboration Insights during Sprint.
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157716148813582366/118.PNG?ex=65199eaf&is=65184d2f&hm=e27a8599077207605c3f096f6bcec5b95b06321a0beef89d1fd6db0f150462d7&=&width=834&height=423)
 
 # <a name="_toc146873764"></a>**CONCLUSIONES**
