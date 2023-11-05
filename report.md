@@ -161,27 +161,36 @@ Septiembre, 2023-2
 
 [5.2.1 Sprint 1](#_toc146873762)
 
-[5.2.1 Sprint 2](#_toc146873763)
+[5.2.2 Sprint 2](#_toc146873763)
 
-[AVANCE DE CONCLUSIONES, BIBLIOGRAFÍA Y ANEXOS.](#_toc146873764)
+[5.2.3 Sprint 3](#_toc146873764)
 
+[5.3 Validation Interviews](#_toc146873765)
+
+[5.3.1 Diseño de Entrevistas](#_toc146873766)
+
+[5.3.2 Registro de Entrevistas](#_toc146873767)
+
+[5.3.3 Evaluaciones según Eurísticas](#_toc146873768)
+
+[AVANCE DE CONCLUSIONES, BIBLIOGRAFÍA Y ANEXOS.](#_toc146873769)
 
 # <a name="_toc146873697"></a><a name="_hlk132546851"></a>**REGISTRO DE VERSIONES DEL INFORME**
 
 
-|**Versión** |**Fecha**|**Autor**|**Descripción y modificación** |
-| :- | :- | :- | :- |
-|TB1|25/08/2023|TODOS|Se creo el archivo y se realizaron todo lo referente a la propuesta de solución hasta el sprint 1|
-|TP|28/09/2029|TODOS|Se realizo los cambios a mejora y modificaciones necesarias al trabajo, agregando el sprint 02.|
-
+| **Versión**  |**Fecha**|**Autor**|**Descripción y modificación** |
+|:-------------| :- | :- | :- |
+| TB1          |25/08/2023|SocialTechnology|Se creo el archivo y se realizaron todo lo referente a la propuesta de solución hasta el sprint 1|
+| TP           |28/09/2023|SocialTechnology|Se realizo los cambios a mejora y modificaciones necesarias al trabajo, agregando el sprint 02.|
+| TB2          |03/11/2023|SocialTechnology|Se realizaron los cambios de mejora y se incorporó el Sprint 3, así como las entrevistasde validación y el video About the Product.|
 
 # <a name="_toc146873698"></a>**STUDENT OUTCOME**
 El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
-|**Criterio específico**|**Acciones realizadas**|                                                                                               **Conclusiones**                                                                                               |
-| :-: | :-: |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|<p>Paitan Pumacahua, Max Anthony</p><p>TP:</p><p>Trabajé de manera colaborativa para implementar y mejorar los conceptos en la documentación, así como la corrección de errores del mismo. Además, implementé la actualización del documento en formato MarkDown.</p><p></p><p>Ramos Vicente, Wiliam</p><p>TP:</p><p>Trabajé en la implementación de las User Stories en formato Cucumber y añadido a github.</p><p> </p><p>Aliaga Trevejo, Lucía</p><p>TP: </p><p>Trabajé de manera colaborativa para implementar las funcionalidades de la web app, según las historias de usuario, usando Vue. Además, trabajé usando GitFlow y GitHub para el control de versiones del proyecto.</p><p> </p><p>Siancas Reategui, Luis Alberto</p><p>TP:</p><p>Trabaje de manera colaborativa para documentar la AppWeb y en la redacción del informe del Trabajo Parcial.</p><p> </p><p>Trujillo Lopez, Luis Alberto</p><p>TP:</p><p>Trabajo de manera colaborativa para complementar las funcionalidades de la App Web tomando conocimientos en Vue.</p><p></p>|        Se llegó a la conclusión de que, trabajando en equipo de manera organizada, planteando ideas, realizando cambios progresivos y reuniones diarias logramos avanzar en nuestra idea de solución         |
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|<p>Paitan Pumacahua, Max Anthony</p><p>TP:</p><p>Implementé la estrategia ágil en el desarrollo de la web app, manteniendo un seguimiento documentado de las acciones realizadas. Colaboré activamente en la redacción del informe y cumplí con las entregas en el plazo establecido.</p><p></p><p>Ramos Vicente, Wiliam</p><p>TP:</p><p>Se trabajó de manera colaborativa para la implementación de la App Web, utilizando herramientas como Git Hub.</p><p> </p><p>Aliaga Trevejo, Lucía</p><p>TP:</p><p>Apliqué la implementación de la web app bajo un  enfoque ágil, documentando las actividades realizadas. Colaboré en la redacción del informe presentando los entregables con puntualidad.</p><p></p><p>Siancas Reategui, Luis Alberto</p><p>TP: Empleé una metodología ágil en la creación de la aplicación web, manteniendo un registro de las acciones llevadas a cabo. Contribuí en la redacción del informe y entregué los resultados puntualmente.</p><p> </p><p>Trujillo Lopez, Luis Alberto</p><p>TP: Utilicé un enfoque ágil para desarrollar la aplicación web, registrando las tareas ejecutadas. Participé en la elaboración del reporte, entregando los resultados en tiempo y forma.</p><p></p>| Se llegó a la conclusión de que el analizar, investigar, realizar y planificar nos ha servido para el desarrollo de nuestra propuesta de solución y todos los componentes necesarios para nuestra idea de negocio |
+|**Criterio específico**|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                               **Conclusiones**                                                                                               |
+| :-: |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|                                                                                                                                              <p>Paitan Pumacahua, Max Anthony</p><p>TP: Trabajé de manera colaborativa para implementar y mejorar los conceptos en la documentación, así como la corrección de errores del mismo. Además, implementé la actualización del documento en formato MarkDown.</p><p>TB2: Trabajé de manera colaborativa en el desarrollo del API, además de la mejora y actualización del informe en el formato MarkDown</p><p></p><p></p><p>Ramos Vicente, Wiliam</p><p>TP:</p><p>Trabajé en la implementación de las User Stories en formato Cucumber y añadido a github.</p><p>TB2: Realicé las entrevistas de validación con sus respectivas evaluaciones según heurísticas.</p><p> </p><p>Aliaga Trevejo, Lucía</p><p>TP: </p><p>Trabajé de manera colaborativa para implementar las funcionalidades de la web app, según las historias de usuario, usando Vue. Además, trabajé usando GitFlow y GitHub para el control de versiones del proyecto.</p><p>TB2: Trabajé de manera colaborativa en la implementación del backend, desarrollando los context de la API con el enfoque DDD.</p><p> </p><p>Siancas Reategui, Luis Alberto</p><p>TP:</p><p>Trabaje de manera colaborativa para documentar la AppWeb y en la redacción del informe del Trabajo Parcial.</p><pTB2: Trabaje en la documentación del trabajo y en el modelamiento y programación del API, implementando nuevas funcionalidades</p><p> </p><p>Trujillo Lopez, Luis Alberto</p><p>TP:</p><p>Trabajo de manera colaborativa para complementar las funcionalidades de la App Web tomando conocimientos en Vue.</p><p>TB2: Trabajé de manera colaborativa en las funcionalidades del backend usando el framework .NET y el lenguaje C#.</p><p></p>                                                                                                                                              |        Se llegó a la conclusión de que, trabajando en equipo de manera organizada, planteando ideas, realizando cambios progresivos y reuniones diarias logramos avanzar en nuestra idea de solución         |
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| <p>Paitan Pumacahua, Max Anthony</p><p>TP:</p><p>Implementé la estrategia ágil en el desarrollo de la web app, manteniendo un seguimiento documentado de las acciones realizadas. Colaboré activamente en la redacción del informe y cumplí con las entregas en el plazo establecido.</p><p>TB2: Se apoyó en la creación del API, además de colaborar con el desarrollo del informe.</p><p></p><p>Ramos Vicente, Wiliam</p><p>TP:</p><p>Se trabajó de manera colaborativa para la implementación de la App Web, utilizando herramientas como Git Hub.</p><p>TB2: Trabaje de manera colaborativa para la implementación del US01 Y 04 en la App Web utilizando buenas prácticas.</p><p> </p><p>Aliaga Trevejo, Lucía</p><p>TP:</p><p>Apliqué la implementación de la web app bajo un  enfoque ágil, documentando las actividades realizadas. Colaboré en la redacción del informe presentando los entregables con puntualidad.</p><p>TB2: Implementé el backend con un enfoque ágil, realizando la documentación con Swagger. También apliqué GitFlow para el control de versiones del proyecto.</p><p></p><p>Siancas Reategui, Luis Alberto</p><p>TP: Empleé una metodología ágil en la creación de la aplicación web, manteniendo un registro de las acciones llevadas a cabo. Contribuí en la redacción del informe y entregué los resultados puntualmente.</p><p>TB2: Se trabajó de manera colaborativa en la creación del API, implementando nuevas funcionalidades a la misma. También, se trabajó con branches separadas lo que facilitó el trabajo colaborativo.</p><p> </p><p>Trujillo Lopez, Luis Alberto</p><p>TP: Utilicé un enfoque ágil para desarrollar la aplicación web, registrando las tareas ejecutadas. Participé en la elaboración del reporte, entregando los resultados en tiempo y forma.</p><p>TB2: Trabajé de manera colaborativa utilizando buenas prácticas y bajo el enfoque agile. Colaboré en la redacción del informe y la documentación en Swagger</p> <p></p> | Se llegó a la conclusión de que el analizar, investigar, realizar y planificar nos ha servido para el desarrollo de nuestra propuesta de solución y todos los componentes necesarios para nuestra idea de negocio |
 
 
 **===============================================================================================**
@@ -768,6 +777,7 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157708325769715797/22.png?ex=65199766&is=651845e6&hm=22cad313a8b1bd893c7abe824d5a8f895cc666817aafca829c4bebcdca950d78&=)
 ## <a name="_toc146873725"></a>3.2. User Stories
 
+Con los user stories, logramos identificar las funcionalidades con las que debe contar nuestra aplicación, dependiendo de las necesidades y requisitos de los usuarios, buscando implementar las características más importantes en la aplicación desde el principio, además de lograr un desarrollo de software orientado al usuario.   
 
 |<a name="_hlk146753908"></a>**Epic ID**|**Título**|**Descripción**|
 | :-: | :-: | :-: |
@@ -790,31 +800,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Registro exitoso</p><p>**Dado que** un nuevo usuario quiere registrarse</p><p>**Cuando** ingresa un correo electrónico válido y una contraseña segura</p><p>**Y** presiona el botón de registro</p><p>**Entonces** se crea una cuenta con éxito y se le redirige a la página de inicio de sesión.</p><p> </p><p>**Scenario 2:** Registro fallido</p><p>**Dado que** un nuevo usuario quiere registrarse</p><p>**Cuando** ingresa un correo electrónico válido y una contraseña que no cumple con los requisitos establecidos</p><p>**Y** presiona el botón de registro</p><p>**Entonces** se muestra un mensaje de error, indicando que la contraseña es incorrecta, y se le pide que ingrese una nueva.</p>||||
 
 
-
 |**User Story ID**|US002|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Elegir tipo de cuenta|||
 |**Description**|Como un nuevo usuario, quiero escoger el tipo de cuenta que deseo crearme para usar la herramientas y funcionalidades específicas y preferenciales de acuerdo con mi tipo de cuenta.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Elección de cuenta</p><p>**Dado que** es un nuevo usuario</p><p>**Cuando** llega a la página de registro</p><p>**Y** se le presenta la opción de seleccionar un tipo de cuenta, entre “cliente” y “cocinero”</p><p>**Entonces** el usuario elige el tipo de cuenta que busca y continúa con el proceso de registro.</p>||||
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 |**User Story ID**|US003|**Epic ID**|EP001|
@@ -824,21 +814,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Restablecimiento de contraseña exitoso</p><p>**Dado que** el usuario ha olvidado su contraseña</p><p>**Cuando** el usuario hace clic en la opción “¿Olvidaste tu contraseña?” en la página de inicio de sesión</p><p>**Y** sigue el proceso de restablecimiento de contraseña, ingresando su correo electrónico</p><p>**Entonces** el sistema enviará un enlace de restablecimiento de contraseña, para que pueda crear una nueva y recupere el acceso a su cuenta.</p><p> </p><p>**Scenario 2:** Restablecimiento de contraseña fallido</p><p>**Dado que** el usuario ha olvidado su contraseña</p><p>**Cuando** el usuario hace clic en la opción “¿Olvidaste tu contraseña?” en la página de inicio de sesión</p><p>**Y** sigue el proceso de restablecimiento de contraseña, ingresando su correo electrónico</p><p>**Entonces,** si el correo electrónico no está registrado en el sistema, se muestra un mensaje de error indicando que no se pudo encontrar la cuenta asociada a dicho correo.</p>||||
 
 
-
-
-
-
-
-
-
-
-
 |**User Story ID**|US004|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Iniciar sesión|||
 |**Description**|Como usuario, quiero poder iniciar sesión con mi cuenta de Google o Facebook para agilizar el proceso de inicio de sesión.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Iniciar sesión con cuenta de Google</p><p>**Dado que** el usuario desea iniciar sesión</p><p>**Cuando** el usuario selecciona la opción de iniciar sesión con su cuenta de Google en la página de inicio de sesión</p><p>**Y** proporciona las credenciales de su cuenta de Google</p><p>**Entonces** el sistema verifica las credenciales y permite al usuario iniciar sesión exitosamente con su cuenta de Google.</p><p> </p><p>**Scenario 1:** Iniciar sesión con cuenta de Facebook</p><p>**Dado que** el usuario desea iniciar sesión</p><p>**Cuando** el usuario selecciona la opción de iniciar sesión con su cuenta de Facebook en la página de inicio de sesión</p><p>**Y** proporciona las credenciales de su cuenta de Facebook</p><p>**Entonces** el sistema verifica las credenciales y permite al usuario iniciar sesión exitosamente con su cuenta de Facebook.</p>||||
-
 
 
 |**User Story ID**|US005|**Epic ID**|EP001|
@@ -848,23 +828,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Recepción y verificación exitosa del correo electrónico de verificación</p><p>**Dado que** un usuario se ha registrado en la aplicación</p><p>**Cuando** el usuario completa el proceso de registro proporcionando su dirección de correo electrónico</p><p>**Y** el sistema envía un correo electrónico de verificación a la dirección proporcionada</p><p>**Entonces** el usuario recibe el correo electrónico de verificación, lo abre y sigue el enlace o instrucciones para confirmar y verificar su cuenta.</p><p> </p><p>**Scenario 2:** Problema con el correo electrónico de verificación</p><p>**Dado que** un usuario se ha registrado en la aplicación</p><p>**Cuando** el usuario completa el proceso de registro proporcionando su dirección de correo electrónico</p><p>**Y** el sistema intenta enviar un correo electrónico de verificación a la dirección, pero se produce un error de envío</p><p>**Entonces** el sistema muestra un mensaje de error indicando que no se envió el correo de verificación, brindando al usuario el reenvío del correo de verificación o actualizar el correo electrónico.</p>||||
 
 
-
-
-
 |**User Story ID**|US006|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Recuperar cuenta|||
 |**Description**|Como usuario, quiero recuperar mi cuenta en caso de haber sido bloqueado por múltiples intentos o haya sido robado por un extraño para tener seguridad de toda mi información.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Recuperación de cuenta bloqueada</p><p>**Dado que** un usuario ha sido bloqueado debido a múltiples ingresos fallidos de inicio de sesión</p><p>**Cuando** el usuario selecciona la opción de "Recuperar cuenta" en la página de inicio de sesión</p><p>**Y** sigue el proceso de recuperación proporcionando información de seguridad y detalles adicionales para demostrar su identidad</p><p>**Entonces** el sistema verifica la información y desbloquea la cuenta, permitiendo al usuario volver a acceder a su cuenta de manera segura.</p><p> </p><p>**Scenario 2:** Recuperación de cuenta robada</p><p>**Dado que** el usuario sospecha que su cuenta ha sido robada por un tercero no autorizado</p><p>**Cuando** el usuario selecciona la opción de "Recuperar cuenta" en la página de inicio de sesión</p><p>**Y** sigue el proceso de recuperación proporcionando información de seguridad y detalles adicionales para demostrar su identidad</p><p>**Entonces** el sistema verifica la información proporcionada y toma medidas para ayudar al usuario a recuperar el control de su cuenta, como cambiar la contraseña o habilitar medidas de seguridad adicionales.</p>||||
-
-
-
-
-
-
-
-
-
 
 
 |**User Story ID**|US007|**Epic ID**|EP002|
@@ -874,17 +842,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Establecimiento de preferencias dietéticas</p><p>**Dado que** el usuario desea establecer sus preferencias dietéticas</p><p>**Cuando** el usuario accede a su perfil</p><p>**Entonces** el usuario puede seleccionar sus preferencias –como ser vegetariano o indicar alergia–, para que las recetas sugeridas se ajusten a sus necesidades.</p>||||
 
 
-
-
-
 |**User Story ID**|US008|**Epic ID**|EP002|
 | :- | :- | :- | :- |
 |**Title**|Información de la salud del usuario|||
 |**Description**|Como usuario, quiero poder ingresar mi información de salud, como peso y altura, para establecer metas y recibir recomendaciones más personalizadas.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Ingreso de la información de salud</p><p>**Dado que** el usuario desea ingresar su información de salud</p><p>**Cuando** el usuario accede a su perfil o configuración de cuenta</p><p>**Entonces** el usuario puede ingresar datos como peso y altura para establecer metas personales y recibir recomendaciones más personalizadas en función de su información de salud.</p>||||
-
-
-
 
 
 |**User Story ID**|US009|**Epic ID**|EP002|
@@ -894,17 +856,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Visualización de resumen de metas y preferencias</p><p>**Dado que** el usuario quiere ver un resumen de sus metas y preferencias</p><p>**Cuando** el usuario accede a su perfil</p><p>**Entonces** el usuario puede ver un resumen visual que muestra sus objetivos y preferencias, lo que le sirve como recordatorio de sus metas personales.</p><p> </p><p>**Scenario 2:** Actualización de metas y preferencias</p><p>**Dado que** el usuario quiere modificar sus metas y preferencias</p><p>**Cuando** el usuario accede a su perfil</p><p>**Entonces** el usuario puede actualizar sus metas y preferencias en cualquier momento desde el resumen visual de su perfil para mantener sus objetivos actuales.</p>||||
 
 
-
-
-
 |**User Story ID**|US010|**Epic ID**|EP002|
 | :- | :- | :- | :- |
 |**Title**|Configurar perfil|||
 |**Description**|Como usuario, quiero poder configurar mi perfil personal en la aplicación, para personalizar más mi experiencia en la app, y recibir recomendaciones más precisas basadas en mi perfil.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Configuración del perfil</p><p>**Dado que** el usuario desea mantener su perfil actualizado</p><p>**Cuando** accede a la configuración de perfil</p><p>**Entonces** puede configurar su perfil personal.  </p>||||
-
-
-
 
 
 |**User Story ID**|US011|**Epic ID**|EP003|
@@ -914,23 +870,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Explorar recetas recomendadas</p><p>**Dado que** el usuario desea encontrar recetas recomendadas</p><p>**Cuando** accede a la sección de recetas en la aplicación</p><p>**Entonces** el usuario puede explorar recetas sugeridas según sus preferencias y metas alimenticias.</p><p> </p><p>**Scenario 2:** Personalizar plan alimenticio</p><p>**Dado que** el usuario quiere crear un plan alimenticio específico</p><p>**Cuando** utiliza las recetas recomendadas</p><p>**Entonces** el usuario puede armar un plan de comidas personalizado basado en sus preferencias y metas alimenticias.</p>||||
 
 
-
-
-
 |**User Story ID**|US012|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Plan semanal de compras|||
 |**Description**|Como usuario, quiero poder arrastrar y soltar recetas en mi plan semanal, ajustando automáticamente la lista de compras.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Personalización del plan semanal</p><p>**Dado que** el usuario desea ajustar su plan semanal de comidas</p><p>**Cuando** accede al plan semanal en la aplicación</p><p>**Entonces** el usuario puede arrastrar y soltar recetas para personalizar su plan y la lista de compras se ajustará automáticamente.</p><p> </p><p>**Scenario 2:** Actualización de la lista de compras </p><p>**Dado que** el usuario hace cambios en su plan semanal</p><p>**Cuando** modifica las recetas en el plan</p><p>**Entonces** el usuario la lista de compras se actualiza automáticamente para reflejar los cambios realizados en el plan de comidas.</p>||||
-
-
-
-
-
-
-
-
-
 
 
 |**User Story ID**|US013|**Epic ID**|EP003|
@@ -940,17 +884,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Generar automáticamente la lista de compras</p><p>**Dado que** el usuario quiere prepararse para la semana</p><p>**Cuando** agrega recetas a su plan semanal en la aplicación</p><p>**Entonces** el usuario recibe automáticamente una lista de compras consolidada basada en las recetas agregadas, simplificando su preparación.</p>||||
 
 
-
-
-
 |**User Story ID**|US014|**Epic ID**|EP003|
 | :- | - | :- | - |
 |**Title**|Plan alimenticio|||
 |**Description**|Como usuario, quiero poder guardar múltiples planes alimenticios personalizados para diferentes semanas o propósitos.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Creación de planes alimenticios</p><p>**Dado que** el usuario desea crear planes alimenticios personalizados</p><p>**Cuando** accede a la sección de plan alimenticio en la aplicación</p><p>**Entonces** el usuario puede crear y guardar múltiples planes alimenticios para diferentes semanas o propósitos.</p><p> </p><p>**Scenario 2:** Gestión de planes alimenticios</p><p>**Dado que** el usuario desea administrar sus planes alimenticios</p><p>**Cuando** accede a la sección de plan alimenticio en la aplicación</p><p>**Entonces** guardar, editar, seleccionar o borrar planes alimenticios personalizados para adaptarse a sus necesidades.</p><p> </p>||||
-
-
-
 
 
 |**User Story ID**|US015|**Epic ID**|EP003|
@@ -960,25 +898,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Compartir plan alimenticio</p><p>**Dado que** el usuario desea compartir su plan alimenticio con otros</p><p>**Cuando** accede al plan alimenticio que ha creado</p><p>**Entonces** el usuario puede compartirlo de manera rápida con amigos o familiares para recibir sus opiniones.</p>||||
 
 
-
-
-
-
-
-
-
-
-
-
-
 |**User Story ID**|US016|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Exportar plan alimenticio|||
 |**Description**|Como usuario, quiero poder exportar mi plan en formato PDF o similar para transportar la información de manera más sencilla y práctica.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario tiene una duda respecto al uso o funcionamiento de la app</p><p>**Cuando** ingrese al menú de "Ayuda"</p><p>**Entonces** se mostrará un menú en el cual encontrará información y respuestas a preguntas frecuentes, y en caso de no estar la respuesta en este menú, se le dará la opción de dejar su consulta.</p>||||
-
-
-
 
 
 |**User Story ID**|US017|**Epic ID**|EP003|
@@ -988,29 +912,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Búsqueda de recetas personalizadas</p><p>**Dado que** el usuario desea encontrar recetas personalizadas</p><p>**Cuando** utilice la función de búsqueda en la aplicación</p><p>**Entonces** el usuario puede buscar recetas basadas en ingredientes específicos y sus preferencias culinarias.</p><p> </p><p>**Scenario 2:** Cocinar con guía de receta</p><p>**Dado que** el usuario quiere cocinar una receta personalizada</p><p>**Cuando** seleccione una receta en la aplicación</p><p>**Entonces** el usuario recibe una guía sencilla que le ayuda a preparar la receta de acuerdo a sus preferencias y los ingredientes disponibles.</p>||||
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 |**User Story ID**|US018|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Pedir comida personalizada|||
 |**Description**|Como usuario, quiero tener la comida que escojo preparada en mi domicilio para consumir la propuesta y dar una reseña de la receta y preparación.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Pedido de comida personalizada</p><p>**Dado que** el usuario desea solicitar comida personalizada en su domicilio</p><p>**Cuando** seleccione una receta específica en la aplicación</p><p>**Y** hace clic en la opción “Pedir”</p><p>**Entonces** la aplicación registra el pedido y la comida es preparada y entregada en su domicilio.</p><p> </p><p>**Scenario 2:** Experiencia de consumo</p><p>**Dado que** el usuario ha recibido su comida personalizada</p><p>**Cuando** consume la comida en su domicilio</p><p>**Y** accede a la aplicación</p><p>**Entonces** puede proporcionar una reseña sobre la receta dentro de la aplicación para compartir su experiencia con otros usuarios.</p>||||
-
-
-
 
 
 |**User Story ID**|US019|**Epic ID**|EP004|
@@ -1020,13 +926,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Visualizar opciones de suscripción</p><p>**Dado que** el usuario quiere conocer las opciones de suscripción disponibles</p><p>**Cuando** accede a la sección de suscripción en la aplicación</p><p>**Entonces** el usuario puede ver las distintas opciones de suscripción junto con sus beneficios para elegir la que mejor se adapte a sus necesidades.</p>||||
 
 
-
 |**Usert Story ID**|US020|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Ingresar información de pago|||
 |**Description**|Como usuario, quiero ingresar mi información de pago de forma segura para suscribirme al plan premium de la app.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Ingreso seguro de información de pago</p><p>**Dado que** el usuario desea suscribirse al plan premium de la aplicación </p><p>**Cuando** selecciona la opción de suscripción premium dentro de la app</p><p>**Entonces** la aplicación le solicita ingresar su información de pago de forma segura</p><p>**Y** el usuario proporciona los detalles de su tarjeta de crédito u otra forma de pago.</p><p> </p><p>**Scenario 2:** Confirmación de la suscripción premium</p><p>**Dado que** el usuario ha ingresado su información de pago</p><p>**Cuando** complete el proceso de suscripción premium dentro de la aplicación</p><p>**Entonces** la aplicación verifica la información de pago y confirma la suscripción al plan premium, brindando al usuario acceso a las características y beneficios premium de la app.</p>||||
-
 
 
 |**User Story ID**|US021|**Epic ID**|EP004|
@@ -1036,13 +940,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Notificación del vencimiento de suscripción</p><p>**Dado que** el usuario tiene una suscripción activa</p><p>**Cuando** se acerca la fecha de vencimiento de su suscripción dentro de la aplicación</p><p>**Entonces** la aplicación envía una notificación al usuario informándole sobre el próximo vencimiento y la renovación automática de su suscripción para mantener el acceso sin interrupciones.</p><p> </p><p>**Scenario 2:** Confirmación de renovación automática</p><p>**Dado que** el usuario ha recibido una notificación sobre la renovación automática de su suscripción</p><p>**Cuando** la fecha de renovación llega dentro de la aplicación</p><p>**Entonces** la aplicación renueva automáticamente la suscripción del usuario, garantizando que mantenga el acceso sin interrupciones a las características y beneficios de su suscripción.</p>||||
 
 
-
 |**User Story ID**|US022|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Cancelar suscripción|||
 |**Description**|Como usuario, quiero poder cancelar mi suscripción en cualquier momento y recibir confirmación de que no se me cobrará en el próximo ciclo.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Cancelar suscripción</p><p>**Dado que** el usuario desea cancelar su suscripción en la aplicación</p><p>**Cuando** accede a la sección de administración de suscripción dentro de la aplicación</p><p>**Y** selecciona la opción para cancelar la suscripción</p><p>**Entonces** la aplicación confirma la cancelación y garantiza que no se realicen cargos en el próximo ciclo de facturación.</p>||||
-
 
 
 |**User Story ID**|US023|**Epic ID**|EP004|
@@ -1052,13 +954,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Selección y pago de receta específica</p><p>**Dado que** el usuario quiere adquirir una receta específica en la aplicación</p><p>**Cuando** navega por las recetas disponibles y selecciona la que desea comprar</p><p>**Y** procede a realizar el pago dentro de la aplicación</p><p>**Entonces** la aplicación procesa el pago de la receta con todas las especificaciones y proporciona al usuario acceso a la receta completa para prepararla en casa.</p><p> </p><p>**Scenario 2:** Historial de compras y descarga de receta específica</p><p>**Dado que** el usuario ha comprado recetas específicas en la aplicación en el pasado</p><p>**Cuando** accede a su historial de compras dentro de la aplicación</p><p>**Y** selecciona una receta previamente adquirida</p><p>**Entonces** la aplicación permite al usuario descargar nuevamente la receta con todas las especificaciones, lo que le permite prepararla en casa según sus necesidades.</p><p> </p>||||
 
 
-
 |**User Story ID**|US024|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Pagar pedidos especiales|||
 |**Description**|Como usuario, quiero poder pagar para que las comidas de recetas que vi en la aplicación estén en mi domicilio para consumirlo en mi casa de forma sencilla|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Pago de pedidos especiales</p><p>**Dado que** el usuario desea recibir las comidas de recetas que ha visto en la aplicación en su domicilio</p><p>**Cuando** selecciona las comidas específicas que desea ordenar dentro de la aplicación</p><p>**Y** accede a la opción de pago y proporciona la información de pago requerida</p><p>**Entonces** la aplicación procesa el pago y registra el pedido, permitiendo que las comidas sean entregadas en su domicilio para que las consuma de forma sencilla en casa.</p><p> </p><p>**Scenario 2:** Seguimiento y entrega de pedidos especiales</p><p>**Dado que** el usuario ha realizado un pedido especial</p><p>**Cuando** accede a la sección de seguimiento de pedidos dentro de la aplicación</p><p>**Y** realiza un seguimiento del estado de su pedido mientras está en camino hacia su domicilio</p><p>**Entonces** la aplicación proporciona actualizaciones en tiempo real sobre la entrega y garantiza que las comidas lleguen de manera sencilla a su casa para su consumo.</p><p> </p>||||
-
 
 
 |**User Story ID**|US025|**Epic ID**|EP004|
@@ -1068,13 +968,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Obtención de descuento</p><p>**Dado que** el usuario utiliza la aplicación</p><p>**Cuando** se cumplen los criterios para obtener un descuento, como participar en eventos especiales o ser un cliente recurrente</p><p>**Entonces** la aplicación automáticamente aplica el descuento correspondiente en los pagos, permitiendo al usuario disfrutar de los beneficios y descuentos por su uso continuo de la aplicación y su participación en eventos especiales.</p>||||
 
 
-
 |**Usert Story ID**|US026|**Epic ID**|EP005|
 | :- | :- | :- | :- |
 |**Title**|Publicar recetas|||
 |**Description**|Como cocinero, quiero poder crear y publicar nuevas recetas, adjuntando imágenes y descripciones detalladas para compartir mis creaciones.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Publicación de nueva receta</p><p>**Dado que** el cocinero ha publicado una recete previamente en la aplicación y desea realizar modificaciones</p><p>**Cuando** el cocinero inicia sesión en su cuenta de la aplicación y accede a la sección de creación de recetas</p><p>**Y** crea una receta completa con detalles, ingredientes, pasos de preparación e imágenes</p><p>**Entonces** la aplicación permite al cocinero publicar la nueva receta, haciéndola disponible para que otros usuarios la vean y prueben.</p>||||
-
 
 
 |**User Story ID**|US027|**Epic ID**|EP005|
@@ -1084,13 +982,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Notificación de comentarios en recetas</p><p>**Dado que** el cocinero desea estar al tanto de los comentarios de los usuarios en sus recetas</p><p>**Cuando** un usuario comenta una de las recetas del cocinero dentro de la aplicación</p><p>**Entonces** la aplicación envía una notificación al cocinero informándole sobre el comentario, lo que le permite ver la retroalimentación y responder si lo desea.</p><p> </p><p>**Scenario 2:** Notificación de valoraciones en recetas</p><p>**Dado que** el cocinero desea recibir valoraciones de sus recetas</p><p>**Cuando** un usuario valora una de las recetas del cocinero otorgando calificaciones dentro de la aplicación</p><p>**Entonces** la aplicación notifica al cocinero sobre la valoración, proporcionándole información sobre cómo los usuarios perciben sus recetas y brindándole la oportunidad de mejorar su cocina.</p>||||
 
 
-
 |**User Story ID**|US028|**Epic ID**|EP005|
 | :- | :- | :- | :- |
 |**Title**|Editar recetas|||
 |**Description**|Como cocinero, quiero poder editar o retirar mis recetas en caso de que necesite hacer correcciones o eliminar contenido antiguo.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Edición de receta publicada</p><p>**Dado que** el cocinero ha publicado una receta previamente en la aplicación y desea realizar modificaciones</p><p>**Cuando** el cocinero accede a la lista de sus recetas publicadas y selecciona una receta para editar</p><p>**Y** realiza las ediciones necesarias en la descripción, ingredientes o pasos de preparación</p><p>**Entonces** la aplicación actualiza la receta con las modificaciones realizadas y permite al cocinero compartir las mejoras con otros usuarios.</p>||||
-
 
 
 |**User Story ID**|US029|**Epic ID**|EP005|
@@ -1100,13 +996,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Visualización de métricas de recetas</p><p>**Dado que** el cocinero desea ver el rendimiento de sus recetas en la aplicación</p><p>**Cuando** el cocinero accede a su panel de control dentro de la aplicación</p><p>**Y** navega a la sección de métricas de recetas</p><p>**Entonces** la aplicación muestra estadísticas detalladas de la receta, proporcionando al cocinero información valiosa sobre la popularidad de sus creaciones.</p>||||
 
 
-
 |**User Story ID**|US030|**Epic ID**|EP005|
 | :- | :- | :- | :- |
 |**Title**|Gestionar recetas especiales|||
 |**Description**|Como cocinero, quiero aceptar, ver y recibir el dinero por hacer recetas especiales a los usuarios y cocinar dichas comidas para tener un mayor control de mi cuenta. |||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Aceptación de recetas especiales</p><p>**Dado que** el cocinero desea aceptar recetas especiales solicitadas por los usuarios</p><p>**Cuando** el cocinero accede a la sección de gestión de recetas especiales dentro de la aplicación</p><p>**Y** revisa las solicitudes de recetas especiales de los usuarios</p><p>**Entonces** la aplicación le permite al cocinero aceptar las solicitudes de recetas especiales, lo que inicia el proceso de preparación y pago del mismo.</p><p> </p><p>**Scenario 2:** Registro de pagos por recetas especiales</p><p>**Dado que** el cocinero ha preparado y entregado recetas especiales solicitadas por los usuarios</p><p>**Cuando** el cocinero marca como completada la preparación de una receta especial dentro de la aplicación</p><p>**Entonces** la aplicación registra automáticamente el pago por la receta especial y notifica al cocinero sobre el ingreso recibido.</p>||||
-
 
 
 |**User Story ID**|US031|**Epic ID**|EP006|
@@ -1116,13 +1010,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Calificación de receta</p><p>**Dado que** el usuario desea calificar una receta dentro de la aplicación</p><p>**Cuando** el usuario accede a la receta que desea calificar</p><p>**Y** selecciona la opción de calificación mediante estrellas, siendo entre una a cinco estrellas</p><p>**Entonces** la aplicación registra la calificación del usuario y muestra la puntuación promedio de la receta basada en las calificaciones de todos los usuarios.</p>||||
 
 
-
 |**User Story ID**|US032|**Epic ID**|EP006|
 | :- | :- | :- | :- |
 |**Title**|Comentar recetas|||
 |**Description**|Como usuario, quiero poder dejar comentarios detallados en las recetas para compartir mis experiencias y sugerencias con otros usuarios.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Comentar una receta</p><p>**Dado que** el usuario desea compartir una experiencia o sugerencia sobre una receta en la aplicación</p><p>**Cuando** el usuario accede a la página de la receta que desea comentar</p><p>**Y** escribe su comentario en un espacio designado</p><p>**Entonces** la aplicación registra el comentario y lo muestra en la sección de comentarios de la receta, permitiendo a otros usuarios ver y responder a la retroalimentación.</p>||||
-
 
 
 |**User Story ID**|US033|**Epic ID**|EP006|
@@ -1132,13 +1024,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Visualización de calificaciones de receta</p><p>**Dado que** el usuario quiere ver las calificaciones de una receta en particular</p><p>**Cuando** el usuario ingresa a la página de una receta</p><p>**Entonces** la aplicación muestra –entre otra información– las calificaciones acumuladas para que el usuario pueda tener una idea de la satisfacción general sobre la receta.</p><p> </p><p>**Scenario 2:** Visualización de comentarios de receta</p><p>**Dado que** el usuario quiere conocer las experiencias y sugerencias de otros usuarios sobre una receta en particular</p><p>**Cuando** el usuario visita la página de una receta en la aplicación</p><p>**Y** se** desplaza hacia abajo para leer los comentarios y retroalimentación de otros usuarios</p><p>**Entonces** la aplicación muestra los comentarios proporcionados por otros usuarios, lo que ayuda al usuario a tomar decisiones informadas sobre la receta y considerar las experiencias de quienes la han probado previamente.</p>||||
 
 
-
 |**User Story ID**|US034|**Epic ID**|EP006|
 | :- | :- | :- | :- |
 |**Title**|Notificar interacción con recetas|||
 |**Description**|Como usuario, quiero recibir notificaciones cuando alguien responda a mis comentarios para poder participar en conversaciones relacionadas con las recetas.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Notificación de respuestas a comentarios</p><p>**Dado que** el usuario desea estar al tanto de las respuestas a sus comentarios en la aplicación</p><p>**Cuando** el usuario comenta una receta y otro usuario responde a ese comentario</p><p>**Entonces** la aplicación envía una notificación al usuario que realizó el comentario inicial, informándole sobre la respuesta recibida y permitiéndole participar en la conversación relacionada con la receta.</p>||||
-
 
 
 |**User Story ID**|US035|**Epic ID**|EP006|
@@ -1148,13 +1038,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Calificación especial de la mejor receta del mes</p><p>**Dado que** el usuario desea destacar la mejor receta del mes en la aplicación</p><p>**Cuando** el usuario explora y prueba varias recetas durante el mes</p><p>**Y** al final de dicho mes, selecciona la receta que más le gustó de manera especial</p><p>**Entonces** la aplicación registra esta calificación especial y otorga un reconocimiento mayor a esa receta, destacándose como la mejor del mes.</p>||||
 
 
-
 |**User Story ID**|US036|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Búsqueda específica de recetas|||
 |**Description**|Como usuario, quiero poder buscar recetas utilizando palabras clave como "ensalada de quinua" para encontrar recetas específicas.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Búsqueda de recetas</p><p>**Dado que** el usuario desea buscar recetas en la aplicación</p><p>**Cuando** el usuario utiliza la función de búsqueda y escribe una palabra clave, como "ensalada de quinua"</p><p>**Y** pulsa el botón de búsqueda</p><p>**Entonces** la aplicación muestra resultados que coinciden con la palabra clave ingresada, permitiendo al usuario encontrar recetas específicas relacionadas con "ensalada de quinua".</p>||||
-
 
 
 |**User Story ID**|US037|**Epic ID**|EP007|
@@ -1164,13 +1052,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** seleccionar filtro “tipo de cocina”</p><p>**Dado que** el usuario desea explorar recetas de una región específica en la aplicación</p><p>**Cuando** el usuario accede a la sección de búsqueda o exploración de recetas</p><p>**Y** selecciona un tipo de cocina, como "italiana" o "peruana", en las opciones de filtro</p><p>**Entonces** la aplicación muestra resultados de recetas que pertenecen a la región culinaria elegida, permitiendo al usuario explorar recetas específicas de esa cocina.</p>||||
 
 
-
 |**User Story ID**|US038|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Filtrar por tiempo de preparación|||
 |**Description**|Como usuario, quiero filtrar las recetas por tiempo de preparación para encontrar opciones rápidas para las noches ocupadas.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** seleccionar filtro “tiempo de preparación”</p><p>**Dado que** el usuario desea explorar recetas de acuerdo al tiempo de preparación</p><p>**Cuando** el usuario accede a la sección de búsqueda o exploración de recetas</p><p>**Y** selecciona un intervalo de tiempo de preparación en particular, en las opciones de filtro</p><p>**Entonces** la aplicación muestra resultados de recetas que puedan ser preparadas en el intervalo de tiempo seleccionado por el usuario.</p>||||
-
 
 
 |**User Story ID**|US039|**Epic ID**|EP007|
@@ -1180,13 +1066,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** seleccionar filtro “presupuesto diario”</p><p>**Dado que** el usuario desea explorar recetas de acuerdo al presupuesto diario a gastar</p><p>**Cuando** el usuario accede a la sección de búsqueda o exploración de recetas</p><p>**Y** selecciona el presupuesto a gastar, en las opciones de filtro</p><p>**Entonces** la aplicación muestra resultados de recetas que puedan ser preparadas con el presupuesto seleccionado por el usuario.</p>||||
 
 
-
 |**User Story ID**|US040|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Filtrar por ingredientes|||
 |**Description**|Como usuario, quiero filtrar las recetas por el tipo que no puedo consumir para que no me recomienden recetas con dichos ingredientes.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** seleccionar filtro “ingredientes”</p><p>**Dado que** el usuario desea explorar recetas de acuerdo a los ingredientes que contiene</p><p>**Cuando** el usuario accede a la sección de búsqueda o exploración de recetas</p><p>**Y** selecciona los ingredientes que quiere usar, en las opciones de filtro</p><p>**Entonces** la aplicación muestra resultados de recetas que puedan ser preparadas con los ingredientes seleccionados por el usuario.</p>||||
-
 
 
 |**User Story ID**|US041|**Epic ID**|EP007|
@@ -1196,13 +1080,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere poder guardar las búsquedas que realizo</p><p>**Cuando** entre en el buscador de recetas</p><p>**Y** le de click a su “historial de búsqueda”</p><p>**Y** le de click a “búsquedas guardadas”</p><p>**Entonces** encuentra todas las búsquedas que decidió guardar.</p><p></p><p>**Scenario 2:**</p><p>**Dado que** el usuario realiza búsquedas con ayuda de filtros</p><p>**Cuando** entre al buscador</p><p>**Y** use filtros para buscar mejores recetas</p><p>**Y** quiere guardar dichos filtros</p><p>**Entonces** marca la estrellita para guardarlo como filtro destacado</p>||||
 
 
-
 |**User Story ID**|US042|**Epic ID**|EP008|
 | :- | :- | :- | :- |
 |**Title**|Compartir recetas en redes sociales|||
 |**Description**|Como usuario, quiero poder compartir recetas en mis perfiles de redes sociales con un solo clic para inspirar a mis amigos y familiares.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** como usuario me gusta algunas recetas que me brinda</p><p>**Cuando** quiera mostrarle la receta a sus amigos </p><p>**Y** familiares, desea compartirlos por medio de sus redes sociales</p><p>**Entonces** le da click a “compartir”</p><p>**Y** selecciona la red social que quiera compartir la receta.</p>||||
-
 
 
 |**User Story ID**|US043|**Epic ID**|EP008|
@@ -1212,13 +1094,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere compartir en sus redes sociales su receta</p><p>**Cuando** le de click a “vista previa de la receta”</p><p>**Entonces** la aplicación le mostrará una vista previa atractiva antes de compartir.</p>||||
 
 
-
 |**User Story ID**|US044|**Epic ID**|EP008|
 | :- | :- | :- | :- |
 |**Title**|Vincular cuenta con Redes Sociales|||
 |**Description**|Como usuario, quiero poder conectar mi perfil de la app con mis cuentas de redes sociales para compartir mis logros y recetas favoritas de manera sincronizada.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere compartir sus logros y avances en la aplicación</p><p>**Cuando** entre al apartado “Vincular redes Sociales”</p><p>**Y** seleccione las redes sociales que quiere vincular</p><p>**Entonces** la aplicación le permite compartir de forma rápida los logros obtenidos</p><p>**Y** las recetas favoritas realizadas con éxito</p>||||
-
 
 
 |**User Story ID**|US045|**Epic ID**|EP008|
@@ -1228,13 +1108,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere recibir recompensas o insignias especiales</p><p>**Cuando** el usuario realiza los retos propuesto o recomienda la aplicación</p><p>**Y** va al apartado de “Reconocimientos”</p><p>**Entonces** el usuario puede recibir el agradecimiento</p><p>**Y** reclamar las recompensas recibidas</p>||||
 
 
-
 |**User Story ID**|US046|**Epic ID**|EP008|
 | :- | :- | :- | :- |
 |**Title**|Recomendar la aplicación|||
 |**Description**|Como usuario, quiero recomendar la aplicación a mis amigos de forma sencilla y rápida para que puedan probar todos los servicios que ofrece la aplicación y recibir beneficios a cambio.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** al usuario le gusta tanto la aplicación que quiera recomendarlo</p><p>**Cuando** ingrese al apartado de “Recomendar aplicación”</p><p>**Y** seleccione porqué medio</p><p>**Y** a quienes quiere recomendar</p><p>**Entonces** la aplicación fue recomendada con exito</p><p>**Y** la aplicación le da algunas recompensas por recomendar la app.</p>||||
-
 
 
 |**User Story ID**|US047|**Epic ID**|EP009|
@@ -1244,13 +1122,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere ver una lista de ingredientes</p><p>**Cuando** entre en la receta seleccionada</p><p>**Y** vaya al apartado de ver ingredientes</p><p>**Entonces** puede observar toda la lista de ingredientes que entra en la receta</p>||||
 
 
-
 |**User Story ID**|US048|**Epic ID**|EP009|
 | :- | :- | :- | :- |
 |**Title**|Seleccionar ingredientes|||
 |**Description**|Como usuario, quiero poder marcar los ingredientes que ya tengo en casa para que la lista de compras se ajuste automáticamente.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario tiene ingredientes en su hogar</p><p>**Y** quiere comprar sólo lo necesario para preparar dicha receta</p><p>**Cuando** le de click al apartado “Ingredientes que poseo”</p><p>**Y** marque todos los ingredientes que tiene el usuario</p><p>**Entonces** la aplicación le agregará en la lista de compras los ingredientes que le falta</p>||||
-
 
 
 |**User Story ID**|US049|**Epic ID**|EP009|
@@ -1260,13 +1136,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere agregar más alimentos para su lista de compras</p><p>**Cuando** dé click en “personalizar lista de compras”</p><p>**Y** escoja los nuevos productos que desea comprar</p><p>**Entonces** se generará la nueva lista que puede ser exportada o compartida.</p>||||
 
 
-
 |<a name="_hlk146754097"></a>**User Story ID**|US050|**Epic ID**|EP009|
 | :- | :- | :- | :- |
 |**Title**|Compartir lista de compras|||
 |**Description**|Como usuario, quiero poder enviar mi lista de compras por correo electrónico o mensaje de texto para llevarla conmigo al supermercado.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiera compartir mi lista de compras </p><p>**Cuando** ingresa a la aplicación </p><p>**Y** da click en “Compartir Lista” </p><p>**Entonces** le permite llevarse la lista en su correo o como mensaje de texto</p>||||
-
 
 
 |**User Story ID**|US051|**Epic ID**|EP010|
@@ -1276,13 +1150,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere ver los avances constantes que tiene</p><p>**Cuando** quiera saber si mejoró más que el día anterior</p><p>**Y** busque en la aplicación su seguimiento</p><p>**Entonces** se muestran todos los datos del usuario</p><p>**Y** su constante seguimiento</p>||||
 
 
-
 |**User Story ID**|US052|**Epic ID**|EP010|
 | :- | :- | :- | :- |
 |**Title**|Sistema de recordatorios|||
 |**Description**|Como usuario, quiero recibir recordatorios y notificaciones para registrar mi ingesta de alimentos y seguimiento de ejercicios diariamente.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario tiene un día muy ocupado</p><p>**Cuando** se le olvide realizar las comidas, la dieta propuesta</p><p>**Y** el plan alimenticio que tiene</p><p>**Entonces** el sistema le mandara notificaciones para hacerle recordar su actividad</p><p> </p><p>**Scenario 2:**</p><p>**Dado que** el usuario se olvidó de realizar su dieta propuesta</p><p>**Cuando** el usuario esté cerca la hora del desayuno, almuerzo o cena</p><p>**Entonces** la aplicación le manda un recordatorio de su plan alimenticio.</p>||||
-
 
 
 |**User Story ID**|US053|**Epic ID**|EP010|
@@ -1292,7 +1164,6 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere saber cuándo progreso hasta ahora</p><p>**Cuando** el usuario de click en “mi progreso”</p><p>**Y** observe todos los cambios que realizo el usuario</p><p>**Y** visualice un gran cambio en su salud</p><p>**Y** Experiencia culinaria</p><p>**Entonces** lo comparte con sus conocidos.</p>||||
 
 
-
 |**User Story ID**|US054|**Epic ID**|EP010|
 | :- | - | :- | :- |
 |**Title**|Sistema de hitos y felicitaciones|||
@@ -1300,13 +1171,11 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere poner unos objetivos para el progreso de su cocina</p><p>**Cuando** el usuario de click en el botón de “Hitos”</p><p>**Y** observe todos los hitos que realizo</p><p>**Entonces** le salen felicitaciones por todos los hitos completados.</p>||||
 
 
-
 |**User Story ID**|US055|**Epic ID**|EP010|
 | :- | - | :- | - |
 |**Title**|Retos de la aplicación|||
 |**Description**|Como usuario, quiero realizar los retos que me da la aplicación para obtener acceso a las recompensas que brindan.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere realizar retos que le ayuden a mantener un plan alimenticio</p><p>**Y** obtener recompensas en la aplicación por ello</p><p>**Cuando** presione el botón de “Retos disponibles”</p><p>**Entonces** se muestra los retos disponibles para el usuario</p>||||
-
 
 
 |**User Story ID**|US056|**Epic ID**|EP010|
@@ -1318,10 +1187,17 @@ Segmento Objetivo #2: **Cocineros amateurs y profesionales (25-35 años)**
 
 
 ## <a name="_toc146873726"></a>3.3 Impact Map
+
+En esta parte mostramos el Impact Map, herramienta la cual nos ayuda en la visualización del cómo el proyecto puede contribuir a lograr los objetivos establecidos. Esto se logra a través de la identificación de los impactos deseados, los entregables necesarios y las actividades requeridas para dicho cumplimiento. Por consiguiente, desarrollamos el siguiente Impact Map:
+https://miro.com/app/board/uXjVMmzcI1g=/?share_link_id=210751198536
+
+
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157708534767681546/23.png?ex=65199797&is=65184617&hm=edffb76f0df76ae04ec4c6ed6423d2d2908745882d374ff12b8d0e1a42559ced&=&width=486&height=423)
 
 
 ## <a name="_toc146873727"></a>3.4. Product backlog
+
+Se realizó el Product Backlog –que contiene los User Stories–, a fin de mantener un registro de todas las características y requisitos por abordar en el desarrollo del proyecto. Así, ordenando todos los User Stories desarrollados en el presente trabajo por su prioridad y valor (reflejado en los Story Points), obtuvimos la siguiente tabla:
 
 |**# Order**|**User Story Id**|**Título** |**Descripción**|**Story Points (1/2/3/5/8)**|
 | :- | :- | :- | :- | :- |
@@ -2144,14 +2020,195 @@ Desspliegue en Vercel: <https://cook-guide-vue.vercel.app/>
 
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157716086087762041/117.png?ex=65199ea0&is=65184d20&hm=f18775b9c7d0f05244daa3e0ec7f0c624c6e72ef548269fc2680c9d3ab529315&=)
 
-#### 5\.2.12.8. Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 ![](https://media.discordapp.net/attachments/1150112902737580138/1157716148813582366/118.PNG?ex=65199eaf&is=65184d2f&hm=e27a8599077207605c3f096f6bcec5b95b06321a0beef89d1fd6db0f150462d7&=&width=834&height=423)
 
-# <a name="_toc146873764"></a>**CONCLUSIONES**
-- SocialTech se encuentra en una posición única para abordar el problema de la mala alimentación entre los jóvenes universitarios en Lima, Perú, a través de su innovadora aplicación web, CookGuide. Esta aplicación busca ofrecer una solución completa y accesible para ayudar a los estudiantes a mejorar sus hábitos alimenticios y cocinar comidas saludables y deliciosas. Además, brinda la oportunidad a cocineros aficionados y profesionales de compartir sus conocimientos culinarios y generar ingresos adicionales.
-- Hemos identificado hipótesis clave que guiarán nuestra estrategia y nos permitirán medir el éxito de nuestro proyecto. Creemos que, al ofrecer una amplia variedad de recetas, una experiencia de usuario excepcional y fomentar la interacción entre usuarios y cocineros, podremos atraer y retener a una comunidad activa y comprometida en nuestra plataforma.
-- Nuestro enfoque en la personalización, la adaptabilidad y la retroalimentación constante de los usuarios nos permitirá diferenciarnos en un mercado competitivo y ofrecer un valor real a nuestros clientes. Si bien enfrentamos desafíos como la generación de contenido suficiente y la retención de usuarios, estamos comprometidos a superar estos obstáculos a medida que avanzamos en el desarrollo de CookGuide.
-- Nuestro objetivo es transformar la experiencia culinaria de los jóvenes universitarios y ayudar a construir una comunidad apasionada en torno a la cocina. Con una sólida estrategia y un enfoque centrado en el usuario, estamos preparados para enfrentar estos desafíos y trabajar hacia un cambio positivo en la sociedad a través de la innovación tecnológica.
+
+
+### <a name="_toc146873764"></a><a name="_hlk150032990"></a>5.2.3 Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+|**Sprint #**|3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2023-09-02|
+|Time|36 horas|
+|Location|Reunión Virtual (Lima, Perú)|
+|Prepared By|Aliaga Trevejo Lucía Guadalupe|
+|Attendees (to planning meeting)|<p></p><p>Aliaga Trevejo, Lucía Guadalupe / Paitan Pumacahua, Max Anthony / Ramos Vicente, William / Siancas Reategui, Luis Alberto / Trujillo Lopez, Luis Alberto</p><p> </p>|
+|**Sprint Goal & User Stories**||
+|Sprint 1 goal|28 points|
+|Sprint 1 Velocity|4 points|
+|Sum of Story Points|24 points|
+
+#### 5.2.3.2. Sprint Backlog 3
+
+<table><tr><th valign="top"><b>Sprint #</b></th><th colspan="7" valign="top"><b>Sprint 2</b></th></tr>
+<tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work-Item / Task</b></td></tr>
+<tr><td valign="top">ID </td><td valign="top">Title</td><td valign="top">ID</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status</td></tr>
+<tr><td rowspan="3" valign="top">US001</td><td rowspan="3" valign="top">Registrar datos del usuario </td><td valign="top">T001</td><td valign="top">Implementar las modelos, repositorios y controladores de cuenta</td><td valign="top">El desarrollador implementa los dominios, mapping, services controladores y DTO</td><td valign="top">10 Horas</td><td valign="top">Lucia Aliaga & Luis Trujillo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T002</td><td valign="top">Uso de los método Post con las validaciones</td><td valign="top">Corrección de errores y optimización de código </td><td valign="top">8 Horas</td><td valign="top">Lucia Aliaga & Luis Siancas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T003</td><td valign="top">Implementar las relaciones </td><td valign="top">Se realizó las relaciones de la base de datos en el backend</td><td valign="top">4 Horas</td><td valign="top">Lucia Aliaga & William Ramos</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US002</td><td valign="top">Elegir tipo de cuenta</td><td valign="top">T001</td><td valign="top">Implementar la opción de elección de tipo de cuenta</td><td valign="top">El desarrollador implementa la opción y lógica para la creación, con las validaciones de tipos de cuenta: estudiante o cocinero</td><td valign="top">1 Hora</td><td valign="top">Luis Siancas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US004</td><td rowspan="2" valign="top">Iniciar sesión</td><td valign="top">T001</td><td valign="top">Implementar el inicio de sesión</td><td valign="top">Implementar los componentes y artefactos correspondientes para el método de inicio en el back</td><td valign="top">6 Horas</td><td valign="top">Lucia Aliga</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T002</td><td valign="top">Realizar las validaciones para el inicio de sesión</td><td valign="top">Implementa validación para el eficiente inicio de sesión</td><td valign="top">1 Hora</td><td valign="top">William Ramos</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">US010 </td><td rowspan="3" valign="top">Configurar perfil</td><td valign="top">T001</td><td valign="top">Implementar un método para configurar su cuenta</td><td valign="top">El desarrollador implementa los métodos para actualizar los datos de su cuenta</td><td valign="top">6 horas</td><td valign="top">Luis Trujillo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T002</td><td valign="top">Aplicar patrones DDD y los mapeos correspondientes</td><td valign="top">El desarrollador configura y organiza la aplicación para hacer mapeos y usar los patrones DDD</td><td valign="top">4\.5 Horas</td><td valign="top">Lucia Aliaga</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T003</td><td valign="top">Realizar una limpieza de código</td><td valign="top">Corrección de errores y optimización de código </td><td valign="top">1 Hora</td><td valign="top">Lucia Aliaga</td><td valign="top">Done</td></tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+|**Repository**|**Branch**|**Commit ID**|**Commit Message**|**Commit Message Body**|**Commited on date**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|Cook-guide-api|development|34180d96421a90c896a1f992f86c8afce58004ab|feat: initial commit|feat: initial commit|3/11/2023|
+|Cook-guide-api|development|60556b9443a5645de76f07a9986a4dcba3b4df59|feature: add repositories & services|feature: add edit-recipe-card component|3/11/2023|
+|Cook-guide- api|development|60556b9443a5645de76f07a9986a4dcba3b4df59|feat: unit of work|feat: unit of work|4/11/2023|
+|Cook-guide- api|development|524bce3857e1e27bfa6433e3280a178eda8fb4ac|feat: accounts service|feat: accounts service|4/11/2023|
+|Cook-guide- api|development|6335098f9300428e020e2bfbb408175784c757a7|Add user registration|fix: add/edit|4/11/2023|
+|Cook-guide- api|development|1917ca5636c4dea9424b099737506ab82b0cbd08|HotFix DTO|Fix edit form|4/11/2023|
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+![](https://media.discordapp.net/attachments/1150112902737580138/1170821632957349918/119.png?ex=655a6f9e&is=6547fa9e&hm=f3f0584791b126f23cab27b35a2e8865461bd98537f8a4c1fd1bd638e26df19a&=)
+![](https://media.discordapp.net/attachments/1150112902737580138/1170821880853319750/120.png?ex=655a6fd9&is=6547fad9&hm=450b62492473c0c33b02289e486d2573bcab4ba38c922cb9530051ed98259de2&=&width=559&height=423)
+![](https://media.discordapp.net/attachments/1150112902737580138/1170821905578733638/121.png?ex=655a6fdf&is=6547fadf&hm=76889e2b1afbd9650c44233fba0d288c5b67604c2aeafb4390a9f3350dfc0790&=)
+#### 5.2.3.5. Execution Evidence for Sprint Review
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822055315394630/122.png?ex=655a7002&is=6547fb02&hm=5c7d57d65789c01b6a6789542f1a24c4af25090c5db3f4a30fd4c6e1966c500e&=)
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822082221834330/123.png?ex=655a7009&is=6547fb09&hm=5de9d41f236f5518487c935e5be49611c1f2ad4473ae8b2bf03450463fc05e74&=)
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+|EndPoint|Detalles|
+| :-: | :-: |
+|(GET) /api/v1/accounts|Muestra todas las cuentas ya creadas|
+|(POST) /api/v1/accounts|Crea cuentas tomando en razón a las validaciones|
+|(PUT) /api/v1/accounts/{id}|Actualiza los datos de una cuenta seleccionada por id|
+|(DELETE) /api/v1/accounts/{id}|Elmina una cuenta por el id|
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Por el momento el proyecto en el backend no está desplegado.
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822223787999292/124.png?ex=655a702a&is=6547fb2a&hm=c13185a99c33855bca0c63975b3ac36bc67fa84517e025315594f53d620bbb8a&=)
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822246898597898/125.png?ex=655a7030&is=6547fb30&hm=acf58659995ffdb9e67408e1aca3af9f3715cc3093742ec3d44c8c44c592e893&=)
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822268281176114/126.png?ex=655a7035&is=6547fb35&hm=3fc7ca9ea77dc1632b756301b60390ab036fc11bcbabafc128b98910e0af7f8d&=)
+## <a name="_toc146873765"></a>5.3 Validation Interviews
+### <a name="_toc146873766"></a>5.3.1 Diseño de Entrevistas
+**Chefs (Profesionales o Amateurs):**
+
+1. ¿Cuál es tu impresión inicial de CookGuide como una herramienta para aprender a cocinar platos tradicionales y extranjeros? ¿Te parece intuitiva?
+
+2. ¿Qué te parece la variedad de recetas disponibles en CookGuide? ¿Crees que podría ayudarte a expandir tu repertorio culinario?
+
+3. ¿Entiendes cómo funcionan las opciones de personalización y sustitución de ingredientes en CookGuide? ¿Te resulta fácil realizar cambios en las recetas?
+
+4. ¿Qué características o herramientas te resultan más atractivas al explorar CookGuide por primera vez? ¿Hay algo que llame especialmente tu atención?
+
+5. A medida que exploras CookGuide, ¿puedes identificar alguna funcionalidad que creas que sería especialmente útil para mejorar tus habilidades culinarias?
+
+**Estudiantes Universitarios:**
+
+1. Al revisar CookGuide por primera vez, ¿te parece que esta aplicación podría ser útil para ayudarte a cocinar comidas en casa?
+
+2. ¿Qué opinas sobre la posibilidad de personalizar las recetas según tus preferencias dietéticas y restricciones alimentarias? ¿Te resulta interesante?
+
+3. ¿Encuentras la interfaz de usuario de CookGuide fácil de entender y navegar mientras exploras la aplicación por primera vez?
+
+4. ¿Te gustaría unirte a la comunidad y dejar comentarios en las recetas en el futuro? ¿Crees que podría ser beneficioso compartir experiencias con otros usuarios?
+
+5. ¿Hay alguna característica específica que te gustaría ver en CookGuide que aún no hayas descubierto al explorar la aplicación por primera vez? ¿Tienes alguna sugerencia inicial de mejora?
+### <a name="_toc146873767"></a>5.3.2 Registro de Entrevistas
+
+**Segmento 1: Estudiantes universitarios**
+
+**Entrevistado 1:**
+
+- Nombre y Apellido: Kiara Balvin
+- Edad: 18
+- Evidencia de la reunión:
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822625853980712/127.png?ex=655a708a&is=6547fb8a&hm=6cfc8a4e94627a463637a92fb875450413e1ecc0efe6e8c7703f0ce187d2d9f7&=)
+
+- URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[Kiara Balvin - Estudiante 1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/EQY12EnZwfVIoWQMfrCZuqcB0CMHaPNEAg134FCPMEE4YQ?e=pIUjCC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Informe de Resumen sobre la entrevista:
+
+Kiara nos menciona que es una estudiante que la aplicación le parece útil porque la guía rápida que ofrece la aplicación es útil para su forma de cocinar, también nos comenta que personalizar sus recetas la hace sentir como si la app fuera parte de ella. Asimismo, nos comenta que se le hace muy fácil usar la aplicación ya qué es muy intuitiva. Por último, nos dice que lo qué se debe mejorar es qué quizás se pueda agregar videos acerca de la receta.
+
+**Entrevistado 2:** 
+
+- Nombre y Apellido: Diego Puerta
+- Edad: 20
+- Evidencia de la reunión:
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822646234091580/128.png?ex=655a708f&is=6547fb8f&hm=bd9a02c29567eed51741e18ad0de5eba371a1c335a051d4ecbe86d3165dea42e&=)
+
+- URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[Diego Puerta - Estudiante.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/ERNDXpSI_uVNkQUU-7u9oJ0BkJODevdyzbSaNuLtvBIGFw?e=c1LsKl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Informe de Resumen sobre la entrevista:
+
+Diego, por su parte, comparte sus impresiones sobre la aplicación de cocina. Él enfatiza que la app le resulta altamente práctica debido a la rapidez con la que la guía a través de las recetas. Para Diego, la posibilidad de personalizar las recetas le brinda una experiencia culinaria más única, sintiendo una conexión especial con la aplicación. Además, menciona que encuentra la app extremadamente fácil de utilizar, gracias a su intuitiva interfaz. Por último, sugiere que una mejora deseable podría ser la inclusión de videos instructivos relacionados con las recetas.
+
+**Segmento 2: Cocineros amateurs y profesionales**
+
+**Entrevistado 1:**
+
+- Nombre y Apellido: Daphne Eyzaguirre
+- Edad: 20
+- Evidencia de la reunión:
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822664961675385/129.png?ex=655a7094&is=6547fb94&hm=e5816cd4032de857a36b8f64b05d8c94426845b5ebcdc3ebf59d5be576647f6b&=)
+
+- URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[Daphne Eyzaguirre - Cocinera.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/EbW7suPOYI5HrP0wIsfWYjcBmi-x_8bmjf2azPI5pmv5Yg?e=9w2tqQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Informe de Resumen sobre la entrevista:
+
+Daphne nos comenta que la aplicación a una primera impresión le hace una aplicación muy útil e interesante, ya sea para ella como chef como también para personas que quizás no dominan muy bien la tecnología. Nos comenta también que a ella le servirá para expandir su repertorio de recetas ya que en la plataforma actualmente se encuentran mucha diversidad que a ella como cocinera de comida marina le favorece para entrar en otros campos. Asimismo, nos menciona que le encanta la idea de que la aplicación sea como una especie de red social pero de solamente recetas. Por último nos menciona que le agradaría mucho el hecho de dividir el tipo de receta por tipo de comidas.
+
+**Entrevistado 2:**
+
+- Nombre y Apellido: Jose Traslaviña
+- Edad: 24
+- Evidencia de la reunión:
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1170822679486541924/130.png?ex=655a7097&is=6547fb97&hm=473fdc9c6c756063d1cc576eb517284d6e45f52a865b8a6dc8d835332a1a1fb0&=)
+
+- URL del video: [José Traslaviña - Cocinero.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/Ec-XEMvSYtBBsMXBCm4UUSUB2sssyo8T0eKEKNxaY0KbGA?e=pWN8UY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Informe de Resumen sobre la entrevista:
+
+Jose, al respecto, tiene sus propias opiniones acerca de la aplicación. En primer lugar, considera que la aplicación le causa una impresión inicial muy favorable, percibiéndola como una herramienta altamente útil e interesante. Para él, esta aplicación no solo beneficia a chefs experimentados, sino que también puede ser de gran utilidad para aquellos que no son tan adeptos a la tecnología. Jose está emocionado por la posibilidad de ampliar su repertorio culinario, ya que la plataforma ofrece una gran diversidad de recetas, lo que le permite explorar más allá.
+
+Además, a Jose le atrae especialmente la idea de que la aplicación funcione como una suerte de red social exclusivamente centrada en recetas. Por último, sugiere que sería muy beneficioso si la aplicación pudiera agregar videos de referencias a las recetas.
+
+### <a name="_toc146873768"></a>5.3.3 Evaluaciones según heurísticas
+En base a la información recolectada con las entrevistas, analizaremos la interfaz de la aplicación mediante las heurísticas de Nielsen: 
+
+● Visibilidad del estado del sistema Funcionalidades referentes a la visibilidad del estado del sistema aún se encuentran en proceso de desarrollado, por lo que no hubieron observaciones en este caso.
+
+● Relación entre el sistema y el mundo real El idioma que utiliza la aplicación se acerca al lenguaje común de los segmentos objetivos, brindando un entorno familiar y sencillo de utilizar. 
+
+● Libertad y control por parte del usuario: El usuario es libre de navegar por la aplicación sin problemas o restricciones, por lo que se cumple la libertad y control del usuario al utilizar la aplicación. 
+
+● Consistencia y estándares Los entrevistados mencionan la facilidad de utilizar la aplicación, por lo que no se presentan errores de consistencia o estándares de diseño. 
+
+● Prevención de errores Funciones relacionadas a la prevención de errores se siguen trabajando en el desarrollo de la aplicación. 
+
+● Reconocimiento antes que recuerdo El usuario no debe recordar funciones de la aplicación para realizar funciones comunes al navegar por la aplicación. 
+
+● Flexibilidad y eficiencia de uso Se cumple la flexibilidad del usuario al otorgar las funciones más relevantes al ingresar a la aplicación en el caso de las próximas citas médicas por atender y la opción de reservar citas médicas. 
+
+● Estética y diseño minimalista Se prioriza el contenido relevante al mostrar información y sus características antes que los elementos adicionales. Además, se utilizan colores de fondo simples y fuentes de color de letras más oscuras para resltar el contenido.
+
+● Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores Los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación.
+
+● Ayuda y documentación De igual manera, los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. Sin embargo, se proyecta tener un apartado de preguntas frecuentes y sistema de tickets para resolver consultas en un futuro.
+
+
+
+
+
+# <a name="_toc146873769"></a>**CONCLUSIONES**
+- En este trabajo, como SocialTech, hemos documentado el desarrollo y despliegue de una solución web destinada a abordar una necesidad social específica. Nuestro proceso comenzó con la identificación de un problema que afecta a un grupo de usuarios, junto con la formulación de soluciones e hipótesis para su resolución. Realizamos una investigación profunda sobre el segmento objetivo, incluyendo entrevistas a usuarios potenciales, lo que nos permitió comprender más a fondo sus necesidades. Esto, a su vez, nos ayudó a refinar y avanzar en el desarrollo del proyecto. Para tener una visión clara de la problemática y las necesidades de los usuarios, utilizamos herramientas como el "Empathy Map," el "Journey Mapping," así como mapas de escenarios actuales y futuros ("as-is" y "to-be").
+- Definimos la funcionalidad del proyecto a través de la creación de "User Stories," basadas en las necesidades identificadas de los usuarios, y establecimos criterios de aceptación que guiaron el proceso. Desarrollamos el proyecto teniendo en cuenta aspectos técnicos como el diseño, la selección de colores, tipografías y estilos. Creamos wireframes, mock-ups y prototipos que finalmente condujeron a la arquitectura y diseño del software. La planificación de sprints nos permitió completar la implementación y despliegue de nuestra página web de manera eficiente.
+- Creemos que nuestro proyecto ha logrado con éxito satisfacer las necesidades identificadas de los usuarios potenciales. Además, hemos enfrentado y superado varios desafíos durante el proceso, lo que ha enriquecido nuestra experiencia. Reconocemos la relevancia de este proyecto en términos de su impacto potencial para abordar la problemática social identificada, y hemos aprendido valiosas lecciones para aplicar en futuros proyectos. Nuestros logros incluyen la implementación de características clave y un diseño atractivo, lo que nos llena de confianza en que hemos contribuido a la solución de un problema relevante.
+- Finalmente, además de los logros obtenidos, es importante considerar áreas de mejora y posibles pasos futuros. En este sentido, recomendamos la continua recolección de retroalimentación de los usuarios para mantener la adaptabilidad y la evolución constante del producto. Explorar oportunidades para la expansión y la adición de nuevas características, así como la optimización del rendimiento y la seguridad, podría seguir mejorando la experiencia del usuario. También es esencial considerar estrategias de marketing y divulgación para llegar a un público más amplio y medir el impacto real de la solución en la problemática social identificada. El mantenimiento regular y la actualización del contenido y la tecnología garantizarán la relevancia y eficacia continuas de la solución.
 
 
 # **BIBLIOGRAFÍA**
@@ -2164,10 +2221,11 @@ Aco Corrales, E. A. (2019). Hábitos alimenticios de los estudiantes ingresantes
 **Anexos A: Links de Repositorio GitHub**
 
 
-|**Descripción**|**Enlace**|
-| :-: | :-: |
-|Informe (markdown)|<https://github.com/SocialTechOrg/cookguide_report_aw>|
-|Gherkin|<https://github.com/SocialTechOrg/cook-guide-gherkin>|
-|Landing Page|<https://github.com/SocialTechOrg/cookguide-landing-page>|
-|Front End |https://github.com/SocialTechOrg/cook-guide-vue |
+|  **Descripción**   |**Enlace**|
+|:------------------:| :-: |
+| Informe (markdown) |<https://github.com/SocialTechOrg/cookguide_report_aw>|
+|      Gherkin       |<https://github.com/SocialTechOrg/cook-guide-gherkin>|
+|    Landing Page    |<https://github.com/SocialTechOrg/cookguide-landing-page>|
+|     Front End      |https://github.com/SocialTechOrg/cook-guide-vue |
+|      Back End      |https://github.com/SocialTechOrg/cook-guide-api |
 
