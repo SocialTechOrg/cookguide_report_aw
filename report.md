@@ -1,4 +1,4 @@
-﻿![](https://media.discordapp.net/attachments/1150112902737580138/1157704148188401765/1.png?ex=65199382&is=65184202&hm=1353e78426b2e50737e2202fda47979fa8410e99efdc7eb5c4d920a539bb681b&=)
+      ﻿![](https://media.discordapp.net/attachments/1150112902737580138/1157704148188401765/1.png?ex=65199382&is=65184202&hm=1353e78426b2e50737e2202fda47979fa8410e99efdc7eb5c4d920a539bb681b&=)
 
 **Universidad Peruana de Ciencias Aplicadas**
 
@@ -2093,7 +2093,244 @@ Por el momento el proyecto en el backend no está desplegado.
 
 ![](https://media.discordapp.net/attachments/1150112902737580138/1170822268281176114/126.png?ex=655a7035&is=6547fb35&hm=3fc7ca9ea77dc1632b756301b60390ab036fc11bcbabafc128b98910e0af7f8d&=)
 
+### 5.2.4 Sprint 4
+#### 5.2.4.1. Sprint Planning 4
 
+| Sprint # | 4 |
+| --- | --- |
+| Sprint Planning Background |
+| Date | 2023-11-14 |
+| Time | 50 horas |
+| Location | Reunión Virtual (Lima, Perú) |
+| Prepared By | Aliaga Trevejo Lucía Guadalupe |
+| Attendees (to planning meeting) |  Aliaga Trevejo, Lucía Guadalupe / Paitan Pumacahua, Max Anthony Ramos Vicente, William / Siancas Reategui, Luis Alberto / Trujillo Lopez, Luis Alberto |
+| Sprint Goal & User Stories |
+| Sprint 1 goal | 36 points |
+| Sprint 1 Velocity | 8 points |
+| Sum of Story Points | 40 points |
+
+
+#### 5.4.1.2. Sprint Backlog 4
+
+<table>
+  <tr>
+    <th colspan="1" valign="top"><b>Sprint #</b></th>
+    <th colspan="7" valign="top"><b>Sprint 4</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><b>User Story</b></td>
+    <td colspan="5" valign="top"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation (Hours)</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US001</td>
+    <td colspan="1" valign="top">Registrar datos del usuario</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Realizar un método para el registro efectivo en el front con la API</td>
+    <td colspan="1" valign="top">El desarrollador implementa los cambios para que se pueda registrar en la base de datos</td>
+    <td colspan="1" valign="top">5 Horas</td>
+    <td colspan="1" valign="top">Lucia Aliaga & Luis Siancas</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Acoplar el método creado de la API al front</td>
+    <td colspan="1" valign="top">Conectar el registro de datos del usuario del front con el API</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Lucia Aliaga & Luis Siancas & Max Paitan</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US002</td>
+    <td colspan="1" valign="top">Elegir tipo de cuenta</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Conectar el tipo de cuenta del registro en la Base de Datos</td>
+    <td colspan="1" valign="top">El desarrollador realizo el llamado al método del front</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Lucia Aliaga & Luis Trujillo</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US004</td>
+    <td colspan="1" valign="top">Iniciar sesión</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Conectar el inicio de sesión para la Base de Datos</td>
+    <td colspan="1" valign="top">Conectar los componentes y vista para el registro del usuario</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Lucia Aliaga & Luis Trujillo</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">Luis Trujillo</td>
+    <td colspan="1" valign="top">In Process</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US010</td>
+    <td colspan="1" valign="top">Configurar perfil</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Conectar el método para la configuración de cuenta</td>
+    <td colspan="1" valign="top">El desarrollador conecta los métodos para actualizar los datos de su cuenta</td>
+    <td colspan="1" valign="top">2 horas</td>
+    <td colspan="1" valign="top">Luis Trujillo</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Aplicar patrones DDD y los mapeos correspondientes</td>
+    <td colspan="1" valign="top">El desarrollador configura y organiza la aplicación para hacer mapeos y usar los patrones DDD</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Lucia Aliaga</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">T003</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">Lucia Aliaga</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US026</td>
+    <td colspan="1" valign="top">Publicar recetas</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Conectar la los métodos principales</td>
+    <td colspan="1" valign="top">El desarrollador conecta los métodos del backend</td>
+    <td colspan="1" valign="top">2 horas</td>
+    <td colspan="1" valign="top">Lucía Aliaga</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Conectar el componente para agregar receta</td>
+    <td colspan="1" valign="top">El desarrollador conecta los componentes y lógica para añadir recetas.</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Lucía Aliaga & William Ramos</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">T003</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">William Ramos</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US028</td>
+    <td colspan="1" valign="top">Editar recetas</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Conectar el componente para editar receta</td>
+    <td colspan="1" valign="top">El desarrollador conecta los componentes y lógica para editar las recetas creadas.</td>
+    <td colspan="1" valign="top">2 Horas</td>
+    <td colspan="1" valign="top">Lucía Aliaga</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">Lucía Aliaga</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US047</td>
+    <td colspan="1" valign="top">Lista de ingredientes</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Realizar los métodos para el llamado a la lista de ingredientes</td>
+    <td colspan="1" valign="top">Realizar los métodos y conexiones entre las tablas de la base de datos</td>
+    <td colspan="1" valign="top">7 Horas</td>
+    <td colspan="1" valign="top">Lucia Aliaga</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Conectar los métodos del llamado a la lista de ingredientes</td>
+    <td colspan="1" valign="top">Conectar los métodos para hacer el llamado a la lista de ingredientes</td>
+    <td colspan="1" valign="top">2 Horas</td>
+    <td colspan="1" valign="top">Lucia Aliaga</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+| Repository         | Branch       | Commit ID                             | Commit Message                  | Commit Message Body             | Commited on date |
+|---------------------|--------------|---------------------------------------|----------------------------------|----------------------------------|-------------------|
+| Cook-guide-api      | development  | fba1b1407c8c1093807761d1a434fbf458dd1232 | feat: add ingredients DTO        | feat: add ingredients DTO         | 23/11/2023        |
+| Cook-guide-api      | development  | 1b56c3fc4d7b194e5457f4e8ad884a6f6cd4f110 | feature: add ingredients service | feature: add ingredients service  | 23/11/2023        |
+| Cook-guide-api      | development  | 14777de0d9510e15083bb8aadacdbbced29010ea | feat: add ingredients controller | feat: add ingredients controller  | 23/11/2023        |
+| Cook-guide-api      | development  | 8ebc0cf8869a03b7e93530458071cf011c1cc64f | feat: add model entity           | feat: add model entity            | 23/11/2023        |
+| Cook-guide-api      | development  | 1f624fed429836ff8495d1dd946faf21ed07e7bc | Feat: Recipes DTO                | Feat: Recipes DTO                 | 23/11/2023        |
+| Cook-guide-api      | development  | ce326068030a861a098665cbcd1b5c50af2e632e | Feature: Mappers                 | Feature: Mappers                  | 23/11/2023        |
+| Cook-guide-api      | development  | c3efb1efcacf892b4a9b33d9b2d70246910d1132 | Feat: Repositories & Services    | Feat: Repositories & Services     | 23/11/2023        |
+| Cook-guide-api      | development  | feb75b49b90a9f23897ce296f9acd554f4b2a7dc | Feat: Recipes Controller         | Feat: Recipes Controller          | 23/11/2023        |
+| Cook-guide-api      | development  | 9d36097b2a39139b8a74cb68ed6ad1f3dc8a3ff1 | Add: Model to resource           | Add: Model to resource            | 23/11/2023        |
+
+
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1178020873257623632/image.png?ex=6574a06e&is=65622b6e&hm=521232770cc0be68f872be3189a0f87fc58258c028b5e8f40c0a91677d269ebb&=&format=webp&width=1235&height=662)
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1178020912541487144/image.png?ex=6574a078&is=65622b78&hm=f0d7956c865e09a818c93a9beb3de9bdcb4c331aa460a1f13a9f1f159d2def36&)
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1178020931843670056/image.png?ex=6574a07c&is=65622b7c&hm=129f7e42f7082bdb127cdb3088e46540985212e01f31a79e9c3eddce996821f6&)
+
+Github: https://github.com/SocialTechOrg/cook-guide-gherkin
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1178020965704290394/image.png?ex=6574a084&is=65622b84&hm=3e403ad8bf86cfc9fe594e02671f8c0442692872e59b56a7d3c9ad5942d76786&=&format=webp&width=1135&height=662)
+![](https://media.discordapp.net/attachments/1150112902737580138/1178020981252558888/image.png?ex=6574a088&is=65622b88&hm=0c7173ed148afb72affb663645a1507fde45f6229bed363d69d1394edfc7880e&=&format=webp&width=1135&height=662)
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1178021787754311680/image.png?ex=6574a148&is=65622c48&hm=f63d802e8ee9b06e0187f7f0b5175c49c7643fc37f7fd5db1f54941f261b3422&)
+![](https://media.discordapp.net/attachments/1150112902737580138/1178021012177158204/image.png?ex=6574a08f&is=65622b8f&hm=c9de2f0b0d38fecae9ab9bc9f9daf2047c5fc29e5e11e16d6a1c4cfe3fb40398&=&format=webp&width=1091&height=662)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Recipes
+
+| EndPoint                          | Detalles                                           |
+|-----------------------------------|----------------------------------------------------|
+| (GET) /api/v1/recipes             | Muestra todas las recetas                          |
+| (POST) /api/v1/recipes            | Crea recetas con validaciones                      |
+| (GET) /api/v1/recipes/{id}        | Muestra las recetas por el ID de búsqueda          |
+| (PUT) /api/v1/recipes/{id}        | Actualiza los datos de las recetas seleccionadas por ID |
+| (DELETE) /api/v1/recipes/{id}     | Elimina una receta por el ID                       |
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Esta desplegado en la plataforna RailWay
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+![](https://media.discordapp.net/attachments/1150112902737580138/1178021039452733581/image.png?ex=6574a096&is=65622b96&hm=e8b6de6f906e4e3f3d945c9511e2bca314a55145e66ed52d89237252254852c4&=&format=webp&width=1293&height=518)
 
 ## <a name="_toc146873765"></a>5.3 Validation Interviews
 ### <a name="_toc146873766"></a>5.3.1 Diseño de Entrevistas
